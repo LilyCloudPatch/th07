@@ -1,0 +1,988 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th07_100b",
+  "resource": "data/msg5.dat",
+  "entries": {
+    "2/40_0": {
+      "original_lines": [
+        "あなた、人間ね"
+      ],
+      "translated_lines": [
+        "你是，人类呢"
+      ]
+    },
+    "2/120_0": {
+      "original_lines": [
+        "ちょうどいい"
+      ],
+      "translated_lines": [
+        "来得正好"
+      ]
+    },
+    "2/210_0": {
+      "original_lines": [
+        "あなたの持ってるなけなしの春を"
+      ],
+      "translated_lines": [
+        "把你手中的那一点春"
+      ]
+    },
+    "2/300_0": {
+      "original_lines": [
+        "すべて頂くわ！"
+      ],
+      "translated_lines": [
+        "全部都交出来！"
+      ]
+    },
+    "0/60_0": {
+      "original_lines": [
+        "この不吉な感じ"
+      ],
+      "translated_lines": [
+        "这种不祥的感觉"
+      ]
+    },
+    "0/61_0": {
+      "original_lines": [
+        "あんまり喜ばしくないわね"
+      ],
+      "translated_lines": [
+        "情况好像不太妙啊"
+      ]
+    },
+    "0/101_0": {
+      "original_lines": [
+        "みんなが騒がしいと思ったら"
+      ],
+      "translated_lines": [
+        "我说怎么大家那么吵闹的"
+      ]
+    },
+    "0/102_h1_0": {
+      "original_lines": [
+        "　　　半分幻の庭師　　　　　",
+        "魂魄　妖夢（こんぱくようむ）"
+      ],
+      "translated_lines": [
+        "半分虚幻的庭师",
+        "魂魄　妖梦（Konpaku Youmu）"
+      ]
+    },
+    "0/102_0": {
+      "original_lines": [
+        "生きた人間だったのね"
+      ],
+      "translated_lines": [
+        "原来是有活人来这里啊"
+      ]
+    },
+    "0/103_0": {
+      "original_lines": [
+        "・・・まさかと思ったけど",
+        "ここって・・・"
+      ],
+      "translated_lines": [
+        "…虽然还不是很确定，",
+        "难道说这里是…"
+      ]
+    },
+    "0/105_0": {
+      "original_lines": [
+        "昔は生きていた者が住む処よ"
+      ],
+      "translated_lines": [
+        "曾经活着的人所住的地方哦"
+      ]
+    },
+    "0/106_0": {
+      "original_lines": [
+        "あの世？",
+        "やっぱりお呼ばれしてたのかぁ"
+      ],
+      "translated_lines": [
+        "冥界？",
+        "我果然还是被邀请来了啊…"
+      ]
+    },
+    "0/108_0": {
+      "original_lines": [
+        "あなたは、まだお呼びではない"
+      ],
+      "translated_lines": [
+        "你还没有被邀请来这里呢。"
+      ]
+    },
+    "0/109_0": {
+      "original_lines": [
+        "それにしても"
+      ],
+      "translated_lines": [
+        "不过话说回来"
+      ]
+    },
+    "0/110_0": {
+      "original_lines": [
+        "こんな普通に、普通の人間があの世に",
+        "入れたら、危ないじゃないの"
+      ],
+      "translated_lines": [
+        "普通的人类也能这么普通地",
+        "出入这里，不是太危险了吗"
+      ]
+    },
+    "0/111_0": {
+      "original_lines": [
+        "あんたが、結界を破って入って",
+        "きたんでしょ！"
+      ],
+      "translated_lines": [
+        "你这家伙不是打破结界进来的吗！"
+      ]
+    },
+    "0/112_0": {
+      "original_lines": [
+        "あんな結界、普通に破れたわよ"
+      ],
+      "translated_lines": [
+        "那种结界很普通地被打破了哦"
+      ]
+    },
+    "0/113_0": {
+      "original_lines": [
+        "入ってくるな、の意思表示に結界が",
+        "張ってあったわけでしょ"
+      ],
+      "translated_lines": [
+        "就是为了不让别人进来，所以才张开结界的吧"
+      ]
+    },
+    "0/114_0": {
+      "original_lines": [
+        "「のぼるな危険」の鉄塔にのぼる子供",
+        "じゃないんだから"
+      ],
+      "translated_lines": [
+        "比如写有「不要攀爬，危险」的铁塔，",
+        "小孩子是不会去爬的"
+      ]
+    },
+    "0/115_0": {
+      "original_lines": [
+        "勝手に結界を破って、勝手に危険とか",
+        "言ってるんじゃないよ"
+      ],
+      "translated_lines": [
+        "怎么可以随便就破坏结界，随便说很危险呢"
+      ]
+    },
+    "0/116_0": {
+      "original_lines": [
+        "良く喋る幽霊だ"
+      ],
+      "translated_lines": [
+        "这幽灵话真多"
+      ]
+    },
+    "0/117_0": {
+      "original_lines": [
+        "私は半分は幽霊ではない！"
+      ],
+      "translated_lines": [
+        "我有一半不是幽灵啊！"
+      ]
+    },
+    "0/118_0": {
+      "original_lines": [
+        "そっちを訂正するの？"
+      ],
+      "translated_lines": [
+        "你吐槽的居然是那个吗？"
+      ]
+    },
+    "0/119_0": {
+      "original_lines": [
+        "ともかく、あとほんの僅かの春が集まれば"
+      ],
+      "translated_lines": [
+        "不管怎样，再收集一点点春的话"
+      ]
+    },
+    "0/120_0": {
+      "original_lines": [
+        "この西行妖（さいぎょうあやかし）が",
+        "満開になる"
+      ],
+      "translated_lines": [
+        "这里的西行妖就可以完全盛开了"
+      ]
+    },
+    "0/121_0": {
+      "original_lines": [
+        "あなたが持ってきたなけなしの春が"
+      ],
+      "translated_lines": [
+        "就用你身上的那一点春"
+      ]
+    },
+    "0/122_0": {
+      "original_lines": [
+        "満開まであと一押しするってものよ"
+      ],
+      "translated_lines": [
+        "来为盛开再加把劲吧"
+      ]
+    },
+    "0/123_0": {
+      "original_lines": [
+        "良く喋る半分は幽霊"
+      ],
+      "translated_lines": [
+        "半吊子幽灵的话真多"
+      ]
+    },
+    "0/124_0": {
+      "original_lines": [
+        "話を聞いてた？"
+      ],
+      "translated_lines": [
+        "听到我的话了吗？"
+      ]
+    },
+    "0/125_0": {
+      "original_lines": [
+        "あなたはここで斬られて",
+        "おしまいなのよ"
+      ],
+      "translated_lines": [
+        "你要被斩于此地了哦"
+      ]
+    },
+    "0/126_0": {
+      "original_lines": [
+        "あの世で死んでも、あの世に",
+        "逝くのかしら"
+      ],
+      "translated_lines": [
+        "如果死在冥界，也会逝往冥界呢"
+      ]
+    },
+    "0/127_0": {
+      "original_lines": [
+        "あんたは地獄逝き"
+      ],
+      "translated_lines": [
+        "你只会逝往地狱！"
+      ]
+    },
+    "0/128_0": {
+      "original_lines": [
+        "あ、ここは地獄じゃないの？"
+      ],
+      "translated_lines": [
+        "这里难道不是地狱吗？"
+      ]
+    },
+    "0/129_0": {
+      "original_lines": [
+        "・・・妖怪が鍛えたこの楼観剣に"
+      ],
+      "translated_lines": [
+        "…妖怪所锻造的这把楼观剑"
+      ]
+    },
+    "0/130_0": {
+      "original_lines": [
+        "斬れぬものなど、あんまり無い！"
+      ],
+      "translated_lines": [
+        "无法斩断的东西，几乎不存在！"
+      ]
+    },
+    "1/60_0": {
+      "original_lines": [
+        "ここはもう十分に春じゃない"
+      ],
+      "translated_lines": [
+        "这里不是已经很春了吗"
+      ]
+    },
+    "1/61_0": {
+      "original_lines": [
+        "これ以上に何をしようっていうの？"
+      ],
+      "translated_lines": [
+        "你们到底想做些什么呀？"
+      ]
+    },
+    "1/62_0": {
+      "original_lines": [
+        "お嬢様が今年こそは桜を満開に",
+        "するって・・・"
+      ],
+      "translated_lines": [
+        "大小姐今年想要樱花盛开……"
+      ]
+    },
+    "1/63_0": {
+      "original_lines": [
+        "西行妖が満開になるには",
+        "この程度の春では・・・"
+      ],
+      "translated_lines": [
+        "不过想要西行妖盛开的话",
+        "仅仅这点程度的春根本…"
+      ]
+    },
+    "1/64_0": {
+      "original_lines": [
+        "満開になると良い事あるのかしら"
+      ],
+      "translated_lines": [
+        "难道盛开后会发生什么好事不成"
+      ]
+    },
+    "12/40_0": {
+      "original_lines": [
+        "あなた、人間ね"
+      ],
+      "translated_lines": [
+        "你是，人类呢"
+      ]
+    },
+    "12/120_0": {
+      "original_lines": [
+        "ちょうどいい"
+      ],
+      "translated_lines": [
+        "来得正好"
+      ]
+    },
+    "12/210_0": {
+      "original_lines": [
+        "あなたの持ってるなけなしの春を"
+      ],
+      "translated_lines": [
+        "把你手中的那一点春"
+      ]
+    },
+    "12/300_0": {
+      "original_lines": [
+        "すべて頂くわ！"
+      ],
+      "translated_lines": [
+        "全部都交出来！"
+      ]
+    },
+    "10/60_0": {
+      "original_lines": [
+        "大分暖かくなってきたな"
+      ],
+      "translated_lines": [
+        "变得相当暖和了呀"
+      ]
+    },
+    "10/100_0": {
+      "original_lines": [
+        "みんなが騒がしいと思ったら"
+      ],
+      "translated_lines": [
+        "我说怎么大家那么吵闹的"
+      ]
+    },
+    "10/101_h1_0": {
+      "original_lines": [
+        "　　　半分幻の庭師　　　　　",
+        "魂魄　妖夢（こんぱくようむ）"
+      ],
+      "translated_lines": [
+        "半分虚幻的庭师",
+        "魂魄　妖梦（Konpaku Youmu）"
+      ]
+    },
+    "10/101_0": {
+      "original_lines": [
+        "生きた人間だったのね"
+      ],
+      "translated_lines": [
+        "原来是有活人来这里呀"
+      ]
+    },
+    "10/102_0": {
+      "original_lines": [
+        "私が死体なら騒がないのか？"
+      ],
+      "translated_lines": [
+        "我是尸体的话就不会喧哗吗？"
+      ]
+    },
+    "10/103_0": {
+      "original_lines": [
+        "騒がない"
+      ],
+      "translated_lines": [
+        "不会啊"
+      ]
+    },
+    "10/104_0": {
+      "original_lines": [
+        "人間がここ白玉楼に来ることは"
+      ],
+      "translated_lines": [
+        "人类来到这个白玉楼本身，"
+      ]
+    },
+    "10/105_0": {
+      "original_lines": [
+        "それ自体が死のはずなのよ"
+      ],
+      "translated_lines": [
+        "就应该已经死了才对。"
+      ]
+    },
+    "10/106_0": {
+      "original_lines": [
+        "私はきっと生きてるぜ"
+      ],
+      "translated_lines": [
+        "显然，我活着咯。"
+      ]
+    },
+    "10/107_0": {
+      "original_lines": [
+        "あなたは、その結界を自分で越えてきた"
+      ],
+      "translated_lines": [
+        "你自己越过了那个结界。"
+      ]
+    },
+    "10/108_0": {
+      "original_lines": [
+        "その愚かさに霊が騒がしくもなろう"
+      ],
+      "translated_lines": [
+        "那种愚蠢使得灵骚动起来。"
+      ]
+    },
+    "10/109_0": {
+      "original_lines": [
+        "で、ここは暖かくていいぜ"
+      ],
+      "translated_lines": [
+        "可是这里很暖和，不错呀。"
+      ]
+    },
+    "10/110_0": {
+      "original_lines": [
+        "それはもう、幻想郷中の春が集まった",
+        "からね"
+      ],
+      "translated_lines": [
+        "那是因为这里收集了幻想乡的春。"
+      ]
+    },
+    "10/111_0": {
+      "original_lines": [
+        "普通の桜は満開以上に満開だわ"
+      ],
+      "translated_lines": [
+        "普通的樱花比平时还要更加艳丽地绽放"
+      ]
+    },
+    "10/112_0": {
+      "original_lines": [
+        "死体が優雅にお花見とは洒落てるな"
+      ],
+      "translated_lines": [
+        "尸体优雅赏樱的画面想想也很美丽"
+      ]
+    },
+    "10/113_0": {
+      "original_lines": [
+        "それでも西行妖（さいぎょうあやかし）",
+        "は満開には足りない・・・"
+      ],
+      "translated_lines": [
+        "不过现在西行妖",
+        "盛开还是不足啊……"
+      ]
+    },
+    "10/114_0": {
+      "original_lines": [
+        "さいぎょうあやかし？"
+      ],
+      "translated_lines": [
+        "西行妖？"
+      ]
+    },
+    "10/115_0": {
+      "original_lines": [
+        "うちの自慢の妖怪桜よ"
+      ],
+      "translated_lines": [
+        "我家引以为荣的妖怪樱"
+      ]
+    },
+    "10/116_0": {
+      "original_lines": [
+        "それは見てみたい気もするぜ"
+      ],
+      "translated_lines": [
+        "我有种想见见的感觉了。"
+      ]
+    },
+    "10/117_0": {
+      "original_lines": [
+        "ともかく、あとほんの僅かの春が集まれば",
+        "この西行妖も満開になる"
+      ],
+      "translated_lines": [
+        "不管怎样，再收集一点点春的话，",
+        "这西行妖就可以盛开了。"
+      ]
+    },
+    "10/118_0": {
+      "original_lines": [
+        "あなたが持ってきたなけなしの春が"
+      ],
+      "translated_lines": [
+        "就用你身上的那一点春"
+      ]
+    },
+    "10/119_0": {
+      "original_lines": [
+        "満開まであと一押しするってものよ"
+      ],
+      "translated_lines": [
+        "来为盛开再加把劲吧"
+      ]
+    },
+    "10/120_0": {
+      "original_lines": [
+        "しかし、折角集めた春を渡すつもりなど",
+        "あるわけも無いぜ"
+      ],
+      "translated_lines": [
+        "但是，好不容易收集到的春，",
+        "可没打算要交出来"
+      ]
+    },
+    "10/121_0": {
+      "original_lines": [
+        "満開まであと一押し！"
+      ],
+      "translated_lines": [
+        "来为盛开再加把劲！"
+      ]
+    },
+    "10/122_0": {
+      "original_lines": [
+        "いっそのこと、私がお前の集めた春を",
+        "全て奪って"
+      ],
+      "translated_lines": [
+        "索性就，干脆让我把你收集的春",
+        "全部夺过来"
+      ]
+    },
+    "10/123_0": {
+      "original_lines": [
+        "その妖怪桜を咲かせてやるぜ"
+      ],
+      "translated_lines": [
+        "让那个妖怪樱花树盛开。"
+      ]
+    },
+    "10/124_0": {
+      "original_lines": [
+        "私の集めた春は渡しやしない"
+      ],
+      "translated_lines": [
+        "我收集的春不会交出来的！"
+      ]
+    },
+    "10/125_0": {
+      "original_lines": [
+        "私もな"
+      ],
+      "translated_lines": [
+        "我也是"
+      ]
+    },
+    "10/126_0": {
+      "original_lines": [
+        "・・・妖怪が鍛えたこの楼観剣に"
+      ],
+      "translated_lines": [
+        "···妖怪所锻造的这把楼观剑，"
+      ]
+    },
+    "10/127_0": {
+      "original_lines": [
+        "斬れぬものなど、殆ど無い！"
+      ],
+      "translated_lines": [
+        "无法斩断的东西，基本不存在！"
+      ]
+    },
+    "11/60_0": {
+      "original_lines": [
+        "さぁ、その妖怪桜まで案内してもらおうか"
+      ],
+      "translated_lines": [
+        "那么，就把我带到那个妖怪樱花树那里吧。"
+      ]
+    },
+    "11/61_0": {
+      "original_lines": [
+        "どの道、西行妖が満開になるんだったら",
+        "それでもいいんだけど"
+      ],
+      "translated_lines": [
+        "不管怎样只要西行妖能盛开的话就无所谓",
+        "虽然这样说"
+      ]
+    },
+    "11/62_0": {
+      "original_lines": [
+        "なんか納得いかない"
+      ],
+      "translated_lines": [
+        "总觉得有点没法接受"
+      ]
+    },
+    "11/63_0": {
+      "original_lines": [
+        "誰が、満開にするなんていったんだ？"
+      ],
+      "translated_lines": [
+        "谁想让它盛开了？"
+      ]
+    },
+    "11/64_0": {
+      "original_lines": [
+        "私は花見がしたいだけだぜ"
+      ],
+      "translated_lines": [
+        "我只是想赏樱罢了。"
+      ]
+    },
+    "22/40_0": {
+      "original_lines": [
+        "あなた、人間ね"
+      ],
+      "translated_lines": [
+        "你是，人类呢"
+      ]
+    },
+    "22/120_0": {
+      "original_lines": [
+        "ちょうどいい"
+      ],
+      "translated_lines": [
+        "来得正好"
+      ]
+    },
+    "22/210_0": {
+      "original_lines": [
+        "あなたの持ってるなけなしの春を"
+      ],
+      "translated_lines": [
+        "把你手中的那一点春"
+      ]
+    },
+    "22/300_0": {
+      "original_lines": [
+        "すべて頂くわ！"
+      ],
+      "translated_lines": [
+        "全部都交出来！"
+      ]
+    },
+    "20/60_0": {
+      "original_lines": [
+        "出てきな"
+      ],
+      "translated_lines": [
+        "出来"
+      ]
+    },
+    "20/100_0": {
+      "original_lines": [
+        "みんなが騒がしいと思ったら"
+      ],
+      "translated_lines": [
+        "我说怎么大家那么吵闹的"
+      ]
+    },
+    "20/101_h1_0": {
+      "original_lines": [
+        "　　　半分幻の庭師　　　　　",
+        "魂魄　妖夢（こんぱくようむ）"
+      ],
+      "translated_lines": [
+        "半分虚幻的庭师",
+        "魂魄　妖梦（Konpaku Youmu）"
+      ]
+    },
+    "20/101_0": {
+      "original_lines": [
+        "生きた人間だったのね"
+      ],
+      "translated_lines": [
+        "原来是有活人来这里呀"
+      ]
+    },
+    "20/102_0": {
+      "original_lines": [
+        "ようやく、原拠までたどり着いたようね"
+      ],
+      "translated_lines": [
+        "好像终于到要找的地方了"
+      ]
+    },
+    "20/103_0": {
+      "original_lines": [
+        "丸一日かかってしまったわ"
+      ],
+      "translated_lines": [
+        "整整花了一天呀"
+      ]
+    },
+    "20/104_0": {
+      "original_lines": [
+        "こんなところまで来て、余裕あるわね"
+      ],
+      "translated_lines": [
+        "来到这里，还能如此的不慌不忙"
+      ]
+    },
+    "20/105_0": {
+      "original_lines": [
+        "ここは、白玉楼"
+      ],
+      "translated_lines": [
+        "这里是白玉楼"
+      ]
+    },
+    "20/106_0": {
+      "original_lines": [
+        "死者たちの住まう処よ"
+      ],
+      "translated_lines": [
+        "是死者们住的地方"
+      ]
+    },
+    "20/107_0": {
+      "original_lines": [
+        "生きた人間の常識で物を考えると",
+        "痛い目にあうわ"
+      ],
+      "translated_lines": [
+        "用活人考虑问题的方法来对待这里",
+        "是会遭遇不幸的"
+      ]
+    },
+    "20/109_0": {
+      "original_lines": [
+        "死人に口無し"
+      ],
+      "translated_lines": [
+        "死无对证"
+      ]
+    },
+    "20/110_0": {
+      "original_lines": [
+        "大人しく春を返してもらおうかしら"
+      ],
+      "translated_lines": [
+        "老老实实地把春还回来"
+      ]
+    },
+    "20/111_0": {
+      "original_lines": [
+        "あと少しなのよ"
+      ],
+      "translated_lines": [
+        "就差一点了哦"
+      ]
+    },
+    "20/112_0": {
+      "original_lines": [
+        "少しでもダメ"
+      ],
+      "translated_lines": [
+        "差一点也不行"
+      ]
+    },
+    "20/113_0": {
+      "original_lines": [
+        "あと少しで西行妖（さいぎょうあやかし）",
+        "が満開になる"
+      ],
+      "translated_lines": [
+        "仅仅差一点西行妖",
+        "就能盛开了"
+      ]
+    },
+    "20/114_0": {
+      "original_lines": [
+        "普通の春じゃ絶対に満開にはならないのよ"
+      ],
+      "translated_lines": [
+        "普通的春的话是绝对不可能盛开的"
+      ]
+    },
+    "20/115_0": {
+      "original_lines": [
+        "ダメだってば"
+      ],
+      "translated_lines": [
+        "都说了不行哦"
+      ]
+    },
+    "20/116_0": {
+      "original_lines": [
+        "あなたの持っているなけなしの春で",
+        "西行妖もきっと満開になる"
+      ],
+      "translated_lines": [
+        "有了你手中的那一点点春之后",
+        "西行妖一定就可以盛开了"
+      ]
+    },
+    "20/117_0": {
+      "original_lines": [
+        "話聞いてる？"
+      ],
+      "translated_lines": [
+        "你有在听吗？"
+      ]
+    },
+    "20/118_0": {
+      "original_lines": [
+        "そんなもんの為に、私は寒い思いを",
+        "してきたのよ"
+      ],
+      "translated_lines": [
+        "就为了这种东西，我可是受苦受冻了"
+      ]
+    },
+    "20/119_0": {
+      "original_lines": [
+        "ここは暖かいでしょ？"
+      ],
+      "translated_lines": [
+        "这里不是很暖和吗？"
+      ]
+    },
+    "20/120_0": {
+      "original_lines": [
+        "まぁいいわ"
+      ],
+      "translated_lines": [
+        "算了不说了"
+      ]
+    },
+    "20/121_0": {
+      "original_lines": [
+        "死人に口無しよ"
+      ],
+      "translated_lines": [
+        "死无对证"
+      ]
+    },
+    "20/122_0": {
+      "original_lines": [
+        "死人に口無しだわ"
+      ],
+      "translated_lines": [
+        "死无对证"
+      ]
+    },
+    "20/123_0": {
+      "original_lines": [
+        "その春を全て戴くまでよ"
+      ],
+      "translated_lines": [
+        "把你那些春全部交出来"
+      ]
+    },
+    "20/124_0": {
+      "original_lines": [
+        "この私のナイフは、幽霊も斬れるのか？"
+      ],
+      "translated_lines": [
+        "我的飞刀也能斩断幽灵吗？"
+      ]
+    },
+    "20/125_0": {
+      "original_lines": [
+        "妖怪が鍛えたこの楼観剣に"
+      ],
+      "translated_lines": [
+        "妖怪所锻造的这把楼观剑"
+      ]
+    },
+    "20/126_0": {
+      "original_lines": [
+        "斬れぬものなど、少ししか無い！"
+      ],
+      "translated_lines": [
+        "无法斩断的东西，基本不存在！"
+      ]
+    },
+    "21/60_0": {
+      "original_lines": [
+        "良かった幽霊も斬れるみたいね"
+      ],
+      "translated_lines": [
+        "太好了，看来幽灵也能斩呀"
+      ]
+    },
+    "21/120_0": {
+      "original_lines": [
+        "銀だから？"
+      ],
+      "translated_lines": [
+        "因为是银的？"
+      ]
+    },
+    "21/121_0": {
+      "original_lines": [
+        "私は半分は幽霊ではないわ"
+      ],
+      "translated_lines": [
+        "我有一半不是幽灵"
+      ]
+    },
+    "21/122_0": {
+      "original_lines": [
+        "でも、西行寺お嬢様は完全な霊体"
+      ],
+      "translated_lines": [
+        "不过，西行寺大小姐可是完全的灵体"
+      ]
+    },
+    "21/123_0": {
+      "original_lines": [
+        "そんな陳腐な武器で勝負に",
+        "なるのかしら？"
+      ],
+      "translated_lines": [
+        "那样陈旧的武器",
+        "会起到作用吗？"
+      ]
+    },
+    "21/124_0": {
+      "original_lines": [
+        "って、なんでそのお嬢様と闘う事で",
+        "話が進んでるのよ"
+      ],
+      "translated_lines": [
+        "我说，为什么话题转进到",
+        "和那个大小姐对打了啊。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1231 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th07_100b",
+  "resource": "lilypatch/th07/spells",
+  "entries": {
+    "name-000": {
+      "original_lines": [
+        "霜符「フロストコラムス」"
+      ],
+      "translated_lines": [
+        "霜符「Frost Columns」(冰霜方阵)"
+      ]
+    },
+    "name-001": {
+      "original_lines": [
+        "霜符「フロストコラムス -Lunatic-」"
+      ],
+      "translated_lines": [
+        "霜符「Frost Columns -Lunatic-」(冰霜方阵)"
+      ]
+    },
+    "name-002": {
+      "original_lines": [
+        "寒符「リンガリングコールド -Easy-」"
+      ],
+      "translated_lines": [
+        "寒符「Lingering Cold -Easy-」(延长的冬日)"
+      ]
+    },
+    "name-003": {
+      "original_lines": [
+        "寒符「リンガリングコールド」"
+      ],
+      "translated_lines": [
+        "寒符「Lingering Cold」(延长的冬日)"
+      ]
+    },
+    "name-004": {
+      "original_lines": [
+        "寒符「リンガリングコールド -Hard-」"
+      ],
+      "translated_lines": [
+        "寒符「Lingering Cold -Hard-」(延长的冬日)"
+      ]
+    },
+    "name-005": {
+      "original_lines": [
+        "寒符「リンガリングコールド -Lunatic-」"
+      ],
+      "translated_lines": [
+        "寒符「Lingering Cold -Lunatic-」(延长的冬日)"
+      ]
+    },
+    "name-006": {
+      "original_lines": [
+        "冬符「フラワーウィザラウェイ -Easy-」"
+      ],
+      "translated_lines": [
+        "冬符「Flower Wither Away -Easy-」(花之凋零)"
+      ]
+    },
+    "name-007": {
+      "original_lines": [
+        "冬符「フラワーウィザラウェイ」"
+      ],
+      "translated_lines": [
+        "冬符「Flower Wither Away」(花之凋零)"
+      ]
+    },
+    "name-008": {
+      "original_lines": [
+        "白符「アンデュレイションレイ」"
+      ],
+      "translated_lines": [
+        "白符「Undulation Ray」(波状光)"
+      ]
+    },
+    "name-009": {
+      "original_lines": [
+        "怪符「テーブルターニング」"
+      ],
+      "translated_lines": [
+        "怪符「Table Turning」(桌灵转)"
+      ]
+    },
+    "name-010": {
+      "original_lines": [
+        "仙符「鳳凰卵 -Easy-」"
+      ],
+      "translated_lines": [
+        "仙符「凤凰卵 -Easy-」"
+      ]
+    },
+    "name-011": {
+      "original_lines": [
+        "仙符「鳳凰卵」"
+      ],
+      "translated_lines": [
+        "仙符「凤凰卵」"
+      ]
+    },
+    "name-012": {
+      "original_lines": [
+        "仙符「鳳凰展翅」"
+      ],
+      "translated_lines": [
+        "仙符「凤凰展翅」"
+      ]
+    },
+    "name-013": {
+      "original_lines": [
+        "仙符「鳳凰展翅　-Lunatic-」"
+      ],
+      "translated_lines": [
+        "仙符「凤凰展翅 -Lunatic-」"
+      ]
+    },
+    "name-014": {
+      "original_lines": [
+        "式符「飛翔晴明 -Easy-」"
+      ],
+      "translated_lines": [
+        "式符「飞翔晴明 -Easy-」"
+      ]
+    },
+    "name-015": {
+      "original_lines": [
+        "式符「飛翔晴明」"
+      ],
+      "translated_lines": [
+        "式符「飞翔晴明」"
+      ]
+    },
+    "name-016": {
+      "original_lines": [
+        "陰陽「道満晴明」"
+      ],
+      "translated_lines": [
+        "阴阳「道满晴明」"
+      ]
+    },
+    "name-017": {
+      "original_lines": [
+        "陰陽「晴明大紋」"
+      ],
+      "translated_lines": [
+        "阴阳「晴明大纹」"
+      ]
+    },
+    "name-018": {
+      "original_lines": [
+        "天符「天仙鳴動 -Easy-」"
+      ],
+      "translated_lines": [
+        "天符「天仙鸣动 -Easy-」"
+      ]
+    },
+    "name-019": {
+      "original_lines": [
+        "天符「天仙鳴動」"
+      ],
+      "translated_lines": [
+        "天符「天仙鸣动」"
+      ]
+    },
+    "name-020": {
+      "original_lines": [
+        "翔符「飛翔韋駄天」"
+      ],
+      "translated_lines": [
+        "翔符「飞翔韦驮天」"
+      ]
+    },
+    "name-021": {
+      "original_lines": [
+        "童符「護法天童乱舞」"
+      ],
+      "translated_lines": [
+        "童符「护法天童乱舞」"
+      ]
+    },
+    "name-022": {
+      "original_lines": [
+        "仙符「屍解永遠 -Easy-」"
+      ],
+      "translated_lines": [
+        "仙符「尸解永远 -Easy-」"
+      ]
+    },
+    "name-023": {
+      "original_lines": [
+        "仙符「屍解永遠」"
+      ],
+      "translated_lines": [
+        "仙符「尸解永远」"
+      ]
+    },
+    "name-024": {
+      "original_lines": [
+        "鬼符「鬼門金神」"
+      ],
+      "translated_lines": [
+        "鬼符「鬼门金神」"
+      ]
+    },
+    "name-025": {
+      "original_lines": [
+        "方符「奇門遁甲」"
+      ],
+      "translated_lines": [
+        "方符「奇门遁甲」"
+      ]
+    },
+    "name-026": {
+      "original_lines": [
+        "操符「乙女文楽」"
+      ],
+      "translated_lines": [
+        "操符「少女文乐」"
+      ]
+    },
+    "name-027": {
+      "original_lines": [
+        "操符「乙女文楽　-Lunatic-」"
+      ],
+      "translated_lines": [
+        "操符「少女文乐 -Lunatic-」"
+      ]
+    },
+    "name-028": {
+      "original_lines": [
+        "蒼符「博愛の仏蘭西人形 -Easy-」"
+      ],
+      "translated_lines": [
+        "苍符「博爱的法兰西人偶 -Easy-」"
+      ]
+    },
+    "name-029": {
+      "original_lines": [
+        "蒼符「博愛の仏蘭西人形」"
+      ],
+      "translated_lines": [
+        "苍符「博爱的法兰西人偶」"
+      ]
+    },
+    "name-030": {
+      "original_lines": [
+        "蒼符「博愛の仏蘭西人形 -Hard-」"
+      ],
+      "translated_lines": [
+        "苍符「博爱的法兰西人偶 -Hard-」"
+      ]
+    },
+    "name-031": {
+      "original_lines": [
+        "蒼符「博愛のオルレアン人形」"
+      ],
+      "translated_lines": [
+        "苍符「博爱的奥尔良人偶」"
+      ]
+    },
+    "name-032": {
+      "original_lines": [
+        "紅符「紅毛の和蘭人形 -Easy-」"
+      ],
+      "translated_lines": [
+        "红符「红发的荷兰人偶 -Easy-」"
+      ]
+    },
+    "name-033": {
+      "original_lines": [
+        "紅符「紅毛の和蘭人形」"
+      ],
+      "translated_lines": [
+        "红符「红发的荷兰人偶」"
+      ]
+    },
+    "name-034": {
+      "original_lines": [
+        "白符「白亜の露西亜人形」"
+      ],
+      "translated_lines": [
+        "白符「白垩的俄罗斯人偶」"
+      ]
+    },
+    "name-035": {
+      "original_lines": [
+        "白符「白亜の露西亜人形 -Lunatic-」"
+      ],
+      "translated_lines": [
+        "白符「白垩的俄罗斯人偶 -Lunatic-」"
+      ]
+    },
+    "name-036": {
+      "original_lines": [
+        "闇符「霧の倫敦人形 -Easy-」"
+      ],
+      "translated_lines": [
+        "暗符「雾之伦敦人偶 -Easy-」"
+      ]
+    },
+    "name-037": {
+      "original_lines": [
+        "闇符「霧の倫敦人形」"
+      ],
+      "translated_lines": [
+        "暗符「雾之伦敦人偶」"
+      ]
+    },
+    "name-038": {
+      "original_lines": [
+        "廻符「輪廻の西蔵人形」"
+      ],
+      "translated_lines": [
+        "回符「轮回的西藏人偶」"
+      ]
+    },
+    "name-039": {
+      "original_lines": [
+        "雅符「春の京人形」"
+      ],
+      "translated_lines": [
+        "雅符「春之京都人偶」"
+      ]
+    },
+    "name-040": {
+      "original_lines": [
+        "咒詛「魔彩光の上海人形 -Easy-」"
+      ],
+      "translated_lines": [
+        "诅咒「魔彩光的上海人偶 -Easy-」"
+      ]
+    },
+    "name-041": {
+      "original_lines": [
+        "咒詛「魔彩光の上海人形」"
+      ],
+      "translated_lines": [
+        "诅咒「魔彩光的上海人偶」"
+      ]
+    },
+    "name-042": {
+      "original_lines": [
+        "咒詛「魔彩光の上海人形 -Hard-」"
+      ],
+      "translated_lines": [
+        "诅咒「魔彩光的上海人偶 -Hard-」"
+      ]
+    },
+    "name-043": {
+      "original_lines": [
+        "咒詛「首吊り蓬莱人形」"
+      ],
+      "translated_lines": [
+        "诅咒「上吊的蓬莱人偶」"
+      ]
+    },
+    "name-044": {
+      "original_lines": [
+        "騒符「ファントムディニング -Easy-」"
+      ],
+      "translated_lines": [
+        "骚符「Phantom Dinning -Easy-」(幽灵絮语)"
+      ]
+    },
+    "name-045": {
+      "original_lines": [
+        "騒符「ファントムディニング」"
+      ],
+      "translated_lines": [
+        "骚符「Phantom Dinning」(幽灵絮语)"
+      ]
+    },
+    "name-046": {
+      "original_lines": [
+        "騒符「ライブポルターガイスト」"
+      ],
+      "translated_lines": [
+        "骚符「Live Poltergeist」(骚灵现场演奏)"
+      ]
+    },
+    "name-047": {
+      "original_lines": [
+        "騒符「ライブポルターガイスト -Lunatic-」"
+      ],
+      "translated_lines": [
+        "骚符「Live Poltergeist -Lunatic-」(骚灵现场演奏)"
+      ]
+    },
+    "name-048": {
+      "original_lines": [
+        "弦奏「グァルネリ・デル・ジェス -Easy-」"
+      ],
+      "translated_lines": [
+        "弦奏「Guarneri del Gesu -Easy-」(耶稣·瓜尔内里)"
+      ]
+    },
+    "name-049": {
+      "original_lines": [
+        "弦奏「グァルネリ・デル・ジェス」"
+      ],
+      "translated_lines": [
+        "弦奏「Guarneri del Gesu」(耶稣·瓜尔内里)"
+      ]
+    },
+    "name-050": {
+      "original_lines": [
+        "神弦「ストラディヴァリウス」"
+      ],
+      "translated_lines": [
+        "神弦「Stradivarius」(斯特拉迪瓦里)"
+      ]
+    },
+    "name-051": {
+      "original_lines": [
+        "偽弦「スードストラディヴァリウス」"
+      ],
+      "translated_lines": [
+        "伪弦「Pseudo Stradivarius」(伪斯特拉迪瓦里)"
+      ]
+    },
+    "name-052": {
+      "original_lines": [
+        "管霊「ヒノファンタズム -Easy-」"
+      ],
+      "translated_lines": [
+        "管灵「Hino Phantasm -Easy-」(日野幻想)"
+      ]
+    },
+    "name-053": {
+      "original_lines": [
+        "管霊「ヒノファンタズム」"
+      ],
+      "translated_lines": [
+        "管灵「Hino Phantasm」(日野幻想)"
+      ]
+    },
+    "name-054": {
+      "original_lines": [
+        "冥管「ゴーストクリフォード」"
+      ],
+      "translated_lines": [
+        "冥管「Ghost Clifford」(灵之克里福德)"
+      ]
+    },
+    "name-055": {
+      "original_lines": [
+        "管霊「ゴーストクリフォード -Lunatic-」"
+      ],
+      "translated_lines": [
+        "管灵「Ghost Clifford -Lunatic-」(灵之克里福德)"
+      ]
+    },
+    "name-056": {
+      "original_lines": [
+        "冥鍵「ファツィオーリ冥奏 -Easy-」"
+      ],
+      "translated_lines": [
+        "冥键「法奇奥里冥奏 -Easy-」"
+      ]
+    },
+    "name-057": {
+      "original_lines": [
+        "冥鍵「ファツィオーリ冥奏」"
+      ],
+      "translated_lines": [
+        "冥键「法奇奥里冥奏」"
+      ]
+    },
+    "name-058": {
+      "original_lines": [
+        "鍵霊「ベーゼンドルファー神奏」"
+      ],
+      "translated_lines": [
+        "键灵「贝森朵夫神奏」"
+      ]
+    },
+    "name-059": {
+      "original_lines": [
+        "鍵霊「ベーゼンドルファー神奏 -Lunatic-」"
+      ],
+      "translated_lines": [
+        "键灵「贝森朵夫神奏 -Lunatic-」"
+      ]
+    },
+    "name-060": {
+      "original_lines": [
+        "合葬「プリズムコンチェルト -Easy-」"
+      ],
+      "translated_lines": [
+        "合葬「Prism Concerto -Easy-」(棱镜协奏曲)"
+      ]
+    },
+    "name-061": {
+      "original_lines": [
+        "合葬「プリズムコンチェルト」"
+      ],
+      "translated_lines": [
+        "合葬「Prism Concerto」(棱镜协奏曲)"
+      ]
+    },
+    "name-062": {
+      "original_lines": [
+        "騒葬「スティジャンリバーサイド」"
+      ],
+      "translated_lines": [
+        "骚葬「Stygian Riverside」(冥河边缘)"
+      ]
+    },
+    "name-063": {
+      "original_lines": [
+        "騒葬「スティジャンリバーサイド -Lunatic-」"
+      ],
+      "translated_lines": [
+        "骚葬「Stygian Riverside -Lunatic-」(冥河边缘)"
+      ]
+    },
+    "name-064": {
+      "original_lines": [
+        "大合葬「霊車コンチェルトグロッソ -Easy-」"
+      ],
+      "translated_lines": [
+        "大合葬「灵车大协奏曲 -Easy-」"
+      ]
+    },
+    "name-065": {
+      "original_lines": [
+        "大合葬「霊車コンチェルトグロッソ」"
+      ],
+      "translated_lines": [
+        "大合葬「灵车大协奏曲」"
+      ]
+    },
+    "name-066": {
+      "original_lines": [
+        "大合葬「霊車コンチェルトグロッソ改」"
+      ],
+      "translated_lines": [
+        "大合葬「灵车大协奏曲改」"
+      ]
+    },
+    "name-067": {
+      "original_lines": [
+        "大合葬「霊車コンチェルトグロッソ怪」"
+      ],
+      "translated_lines": [
+        "大合葬「灵车大协奏曲怪」"
+      ]
+    },
+    "name-068": {
+      "original_lines": [
+        "幽鬼剣「妖童餓鬼の断食 -Easy-」"
+      ],
+      "translated_lines": [
+        "幽鬼剑「妖童饿鬼之断食 -Easy-」"
+      ]
+    },
+    "name-069": {
+      "original_lines": [
+        "幽鬼剣「妖童餓鬼の断食」"
+      ],
+      "translated_lines": [
+        "幽鬼剑「妖童饿鬼之断食」"
+      ]
+    },
+    "name-070": {
+      "original_lines": [
+        "餓鬼剣「餓鬼道草紙」"
+      ],
+      "translated_lines": [
+        "饿鬼剑「饿鬼道草纸」"
+      ]
+    },
+    "name-071": {
+      "original_lines": [
+        "餓王剣「餓鬼十王の報い」"
+      ],
+      "translated_lines": [
+        "饿王剑「饿鬼十王的报应」"
+      ]
+    },
+    "name-072": {
+      "original_lines": [
+        "獄界剣「二百由旬の一閃 -Easy-」"
+      ],
+      "translated_lines": [
+        "狱界剑「二百由旬之一闪 -Easy-」"
+      ]
+    },
+    "name-073": {
+      "original_lines": [
+        "獄界剣「二百由旬の一閃」"
+      ],
+      "translated_lines": [
+        "狱界剑「二百由旬之一闪」"
+      ]
+    },
+    "name-074": {
+      "original_lines": [
+        "獄炎剣「業風閃影陣」"
+      ],
+      "translated_lines": [
+        "狱炎剑「业风闪影阵」"
+      ]
+    },
+    "name-075": {
+      "original_lines": [
+        "獄神剣「業風神閃斬」"
+      ],
+      "translated_lines": [
+        "狱神剑「业风神闪斩」"
+      ]
+    },
+    "name-076": {
+      "original_lines": [
+        "畜趣剣「無為無策の冥罰 -Easy-」"
+      ],
+      "translated_lines": [
+        "畜趣剑「无为无策之冥罚 -Easy-」"
+      ]
+    },
+    "name-077": {
+      "original_lines": [
+        "畜趣剣「無為無策の冥罰」"
+      ],
+      "translated_lines": [
+        "畜趣剑「无为无策之冥罚」"
+      ]
+    },
+    "name-078": {
+      "original_lines": [
+        "修羅剣「現世妄執」"
+      ],
+      "translated_lines": [
+        "修罗剑「现世妄执」"
+      ]
+    },
+    "name-079": {
+      "original_lines": [
+        "修羅剣「現世妄執 -Lunatic-」"
+      ],
+      "translated_lines": [
+        "修罗剑「现世妄执 -Lunatic-」"
+      ]
+    },
+    "name-080": {
+      "original_lines": [
+        "人界剣「悟入幻想 -Easy-」"
+      ],
+      "translated_lines": [
+        "人界剑「悟入幻想 -Easy-」"
+      ]
+    },
+    "name-081": {
+      "original_lines": [
+        "人界剣「悟入幻想」"
+      ],
+      "translated_lines": [
+        "人界剑「悟入幻想」"
+      ]
+    },
+    "name-082": {
+      "original_lines": [
+        "人世剣「大悟顕晦」"
+      ],
+      "translated_lines": [
+        "人世剑「大悟显晦」"
+      ]
+    },
+    "name-083": {
+      "original_lines": [
+        "人神剣「俗諦常住」"
+      ],
+      "translated_lines": [
+        "人神剑「俗谛常住」"
+      ]
+    },
+    "name-084": {
+      "original_lines": [
+        "天上剣「天人の五衰 -Easy-」"
+      ],
+      "translated_lines": [
+        "天上剑「天人之五衰 -Easy-」"
+      ]
+    },
+    "name-085": {
+      "original_lines": [
+        "天上剣「天人の五衰」"
+      ],
+      "translated_lines": [
+        "天上剑「天人之五衰」"
+      ]
+    },
+    "name-086": {
+      "original_lines": [
+        "天界剣「七魄忌諱」"
+      ],
+      "translated_lines": [
+        "天界剑「七魄忌讳」"
+      ]
+    },
+    "name-087": {
+      "original_lines": [
+        "天神剣「三魂七魄」"
+      ],
+      "translated_lines": [
+        "天神剑「三魂七魄」"
+      ]
+    },
+    "name-088": {
+      "original_lines": [
+        "六道剣「一念無量劫 -Easy-」"
+      ],
+      "translated_lines": [
+        "六道剑「一念无量劫 -Easy-」"
+      ]
+    },
+    "name-089": {
+      "original_lines": [
+        "六道剣「一念無量劫」"
+      ],
+      "translated_lines": [
+        "六道剑「一念无量劫」"
+      ]
+    },
+    "name-090": {
+      "original_lines": [
+        "六道剣「一念無量劫 -Hard-」"
+      ],
+      "translated_lines": [
+        "六道剑「一念无量劫 -Hard-」"
+      ]
+    },
+    "name-091": {
+      "original_lines": [
+        "六道剣「一念無量劫 -Lunatic-」"
+      ],
+      "translated_lines": [
+        "六道剑「一念无量劫 -Lunatic-」"
+      ]
+    },
+    "name-092": {
+      "original_lines": [
+        "亡郷「亡我郷 -さまよえる魂-」"
+      ],
+      "translated_lines": [
+        "亡乡「亡我乡 -彷徨的灵魂-」"
+      ]
+    },
+    "name-093": {
+      "original_lines": [
+        "亡郷「亡我郷 -宿罪-」"
+      ],
+      "translated_lines": [
+        "亡乡「亡我乡 -宿罪-」"
+      ]
+    },
+    "name-094": {
+      "original_lines": [
+        "亡郷「亡我郷 -道無き道-」"
+      ],
+      "translated_lines": [
+        "亡乡「亡我乡 -无道之路-」"
+      ]
+    },
+    "name-095": {
+      "original_lines": [
+        "亡郷「亡我郷 -自尽-」"
+      ],
+      "translated_lines": [
+        "亡乡「亡我乡 -自尽-」"
+      ]
+    },
+    "name-096": {
+      "original_lines": [
+        "亡舞「生者必滅の理 -眩惑-」"
+      ],
+      "translated_lines": [
+        "亡舞「生者必灭之理 -眩惑-」"
+      ]
+    },
+    "name-097": {
+      "original_lines": [
+        "亡舞「生者必滅の理 -死蝶-」"
+      ],
+      "translated_lines": [
+        "亡舞「生者必灭之理 -死蝶-」"
+      ]
+    },
+    "name-098": {
+      "original_lines": [
+        "亡舞「生者必滅の理 -毒蛾-」"
+      ],
+      "translated_lines": [
+        "亡舞「生者必灭之理 -毒蛾-」"
+      ]
+    },
+    "name-099": {
+      "original_lines": [
+        "亡舞「生者必滅の理 -魔境-」"
+      ],
+      "translated_lines": [
+        "亡舞「生者必灭之理 -魔境-」"
+      ]
+    },
+    "name-100": {
+      "original_lines": [
+        "華霊「ゴーストバタフライ」"
+      ],
+      "translated_lines": [
+        "华灵「Ghost Butterfly」(亡灵蝶)"
+      ]
+    },
+    "name-101": {
+      "original_lines": [
+        "華霊「スワローテイルバタフライ」"
+      ],
+      "translated_lines": [
+        "华灵「Swallowtail Butterfly」(燕尾蝶)"
+      ]
+    },
+    "name-102": {
+      "original_lines": [
+        "華霊「ディープルーティドバタフライ」"
+      ],
+      "translated_lines": [
+        "华灵「Deep-Rooted Butterfly」(执念蝶)"
+      ]
+    },
+    "name-103": {
+      "original_lines": [
+        "華霊「バタフライディルージョン」"
+      ],
+      "translated_lines": [
+        "华灵「Butterfly Delusion」(蝶妄想)"
+      ]
+    },
+    "name-104": {
+      "original_lines": [
+        "幽曲「リポジトリ・オブ・ヒロカワ -偽霊-」"
+      ],
+      "translated_lines": [
+        "幽曲「埋骨于弘川 -伪灵-」"
+      ]
+    },
+    "name-105": {
+      "original_lines": [
+        "幽曲「リポジトリ・オブ・ヒロカワ -亡霊-」"
+      ],
+      "translated_lines": [
+        "幽曲「埋骨于弘川 -亡灵-」"
+      ]
+    },
+    "name-106": {
+      "original_lines": [
+        "幽曲「リポジトリ・オブ・ヒロカワ -幻霊-」"
+      ],
+      "translated_lines": [
+        "幽曲「埋骨于弘川 -幻灵-」"
+      ]
+    },
+    "name-107": {
+      "original_lines": [
+        "幽曲「リポジトリ・オブ・ヒロカワ -神霊-」"
+      ],
+      "translated_lines": [
+        "幽曲「埋骨于弘川 -神灵-」"
+      ]
+    },
+    "name-108": {
+      "original_lines": [
+        "桜符「完全なる墨染の桜 -封印-」"
+      ],
+      "translated_lines": [
+        "樱符「完全墨染的樱花 -封印-」"
+      ]
+    },
+    "name-109": {
+      "original_lines": [
+        "桜符「完全なる墨染の桜 -亡我-」"
+      ],
+      "translated_lines": [
+        "樱符「完全墨染的樱花 -亡我-」"
+      ]
+    },
+    "name-110": {
+      "original_lines": [
+        "桜符「完全なる墨染の桜 -春眠-」"
+      ],
+      "translated_lines": [
+        "樱符「完全墨染的樱花 -春眠-」"
+      ]
+    },
+    "name-111": {
+      "original_lines": [
+        "桜符「完全なる墨染の桜 -開花-」"
+      ],
+      "translated_lines": [
+        "樱符「完全墨染的樱花 -开花-」"
+      ]
+    },
+    "name-112": {
+      "original_lines": [
+        "「反魂蝶 -一分咲-」"
+      ],
+      "translated_lines": [
+        "「反魂蝶 -一分咲-」"
+      ]
+    },
+    "name-113": {
+      "original_lines": [
+        "「反魂蝶 -参分咲-」"
+      ],
+      "translated_lines": [
+        "「反魂蝶 -三分咲-」"
+      ]
+    },
+    "name-114": {
+      "original_lines": [
+        "「反魂蝶 -伍分咲-」"
+      ],
+      "translated_lines": [
+        "「反魂蝶 -五分咲-」"
+      ]
+    },
+    "name-115": {
+      "original_lines": [
+        "「反魂蝶 -八分咲-」"
+      ],
+      "translated_lines": [
+        "「反魂蝶 -八分咲-」"
+      ]
+    },
+    "name-116": {
+      "original_lines": [
+        "鬼符「青鬼赤鬼」"
+      ],
+      "translated_lines": [
+        "鬼符「青鬼赤鬼」"
+      ]
+    },
+    "name-117": {
+      "original_lines": [
+        "鬼神「飛翔毘沙門天」"
+      ],
+      "translated_lines": [
+        "鬼神「飞翔毘沙门天」"
+      ]
+    },
+    "name-118": {
+      "original_lines": [
+        "式神「仙狐思念」"
+      ],
+      "translated_lines": [
+        "式神「仙狐思念」"
+      ]
+    },
+    "name-119": {
+      "original_lines": [
+        "式神「十二神将の宴」"
+      ],
+      "translated_lines": [
+        "式神「十二神将之宴」"
+      ]
+    },
+    "name-120": {
+      "original_lines": [
+        "式輝「狐狸妖怪レーザー」"
+      ],
+      "translated_lines": [
+        "式辉「狐狸妖怪激光」"
+      ]
+    },
+    "name-121": {
+      "original_lines": [
+        "式輝「四面楚歌チャーミング」"
+      ],
+      "translated_lines": [
+        "式辉「迷人的四面楚歌」"
+      ]
+    },
+    "name-122": {
+      "original_lines": [
+        "式輝「プリンセス天狐　-Illusion-」"
+      ],
+      "translated_lines": [
+        "式辉「天狐公主 -Illusion-」"
+      ]
+    },
+    "name-123": {
+      "original_lines": [
+        "式弾「アルティメットブディスト」"
+      ],
+      "translated_lines": [
+        "式弹「Ultimate Buddhist」(至高佛徒)"
+      ]
+    },
+    "name-124": {
+      "original_lines": [
+        "式弾「ユーニラタルコンタクト」"
+      ],
+      "translated_lines": [
+        "式弹「Unilateral Contact」(片面接触)"
+      ]
+    },
+    "name-125": {
+      "original_lines": [
+        "式神「橙」"
+      ],
+      "translated_lines": [
+        "式神「橙」"
+      ]
+    },
+    "name-126": {
+      "original_lines": [
+        "「狐狗狸さんの契約」"
+      ],
+      "translated_lines": [
+        "「狐狗狸先生的契约」"
+      ]
+    },
+    "name-127": {
+      "original_lines": [
+        "幻神「飯綱権現降臨」"
+      ],
+      "translated_lines": [
+        "幻神「饭纲权现降临」"
+      ]
+    },
+    "name-128": {
+      "original_lines": [
+        "式神「前鬼後鬼の守護」"
+      ],
+      "translated_lines": [
+        "式神「前鬼后鬼的守护」"
+      ]
+    },
+    "name-129": {
+      "original_lines": [
+        "式神「憑依荼吉尼天」"
+      ],
+      "translated_lines": [
+        "式神「凭依荼吉尼天」"
+      ]
+    },
+    "name-130": {
+      "original_lines": [
+        "結界「夢と現の呪」"
+      ],
+      "translated_lines": [
+        "结界「梦境与现实的咒术」"
+      ]
+    },
+    "name-131": {
+      "original_lines": [
+        "結界「動と静の均衡」"
+      ],
+      "translated_lines": [
+        "结界「动与静的均衡」"
+      ]
+    },
+    "name-132": {
+      "original_lines": [
+        "結界「光と闇の網目」"
+      ],
+      "translated_lines": [
+        "结界「光明与黑暗的网目」"
+      ]
+    },
+    "name-133": {
+      "original_lines": [
+        "罔両「ストレートとカーブの夢郷」"
+      ],
+      "translated_lines": [
+        "罔两「直球与曲球的梦乡」"
+      ]
+    },
+    "name-134": {
+      "original_lines": [
+        "罔両「八雲紫の神隠し」"
+      ],
+      "translated_lines": [
+        "罔两「八云紫的神隐」"
+      ]
+    },
+    "name-135": {
+      "original_lines": [
+        "罔両「禅寺に棲む妖蝶」"
+      ],
+      "translated_lines": [
+        "罔两「栖息于禅寺的妖蝶」"
+      ]
+    },
+    "name-136": {
+      "original_lines": [
+        "魍魎「二重黒死蝶」"
+      ],
+      "translated_lines": [
+        "魍魉「二重黑死蝶」"
+      ]
+    },
+    "name-137": {
+      "original_lines": [
+        "式神「八雲藍」"
+      ],
+      "translated_lines": [
+        "式神「八云蓝」"
+      ]
+    },
+    "name-138": {
+      "original_lines": [
+        "「人間と妖怪の境界」"
+      ],
+      "translated_lines": [
+        "「人类与妖怪的界线」"
+      ]
+    },
+    "name-139": {
+      "original_lines": [
+        "結界「生と死の境界」"
+      ],
+      "translated_lines": [
+        "结界「生与死的界线」"
+      ]
+    },
+    "name-140": {
+      "original_lines": [
+        "紫奥義「弾幕結界」"
+      ],
+      "translated_lines": [
+        "紫奥义「弹幕结界」"
+      ]
+    },
+    "player-reimu-a-unfocused": {
+      "original_lines": [
+        "霊符「夢想封印　散」"
+      ],
+      "translated_lines": [
+        "灵符「梦想封印 散」"
+      ]
+    },
+    "player-reimu-a-focused": {
+      "original_lines": [
+        "霊符「夢想封印　集」"
+      ],
+      "translated_lines": [
+        "灵符「梦想封印 集」"
+      ]
+    },
+    "player-reimu-b-unfocused": {
+      "original_lines": [
+        "夢符「封魔陣」"
+      ],
+      "translated_lines": [
+        "梦符「封魔阵」"
+      ]
+    },
+    "player-reimu-b-focused": {
+      "original_lines": [
+        "夢符「二重結界」"
+      ],
+      "translated_lines": [
+        "梦符「二重结界」"
+      ]
+    },
+    "player-marisa-a-unfocused": {
+      "original_lines": [
+        "魔符「スターダストレヴァリエ」"
+      ],
+      "translated_lines": [
+        "魔符「Stardust Reverie」(星尘幻想)"
+      ]
+    },
+    "player-marisa-a-focused": {
+      "original_lines": [
+        "魔符「ミルキーウェイ」"
+      ],
+      "translated_lines": [
+        "魔符「Milky Way」(银河)"
+      ]
+    },
+    "player-marisa-b-unfocused": {
+      "original_lines": [
+        "恋符「ノンディレクショナルレーザー」"
+      ],
+      "translated_lines": [
+        "恋符「Non-Directional Laser」(非定向光线)"
+      ]
+    },
+    "player-marisa-b-focused": {
+      "original_lines": [
+        "恋符「マスタースパーク」"
+      ],
+      "translated_lines": [
+        "恋符「Master Spark」(极限火花)"
+      ]
+    },
+    "player-sakuya-a-unfocused": {
+      "original_lines": [
+        "幻符「インディスクリミネイト」"
+      ],
+      "translated_lines": [
+        "幻符「Indiscriminate」(无差别伤害)"
+      ]
+    },
+    "player-sakuya-a-focused": {
+      "original_lines": [
+        "幻符「殺人ドール」"
+      ],
+      "translated_lines": [
+        "幻符「杀人玩偶」"
+      ]
+    },
+    "player-sakuya-b-unfocused": {
+      "original_lines": [
+        "時符「パーフェクトスクウェア」"
+      ],
+      "translated_lines": [
+        "时符「Perfect Square」(完美空间)"
+      ]
+    },
+    "player-sakuya-b-focused": {
+      "original_lines": [
+        "時符「プライベートスクウェア」"
+      ],
+      "translated_lines": [
+        "时符「Private Square」(个人空间)"
+      ]
+    }
+  }
+}

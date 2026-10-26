@@ -1,0 +1,1532 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th07_100b",
+  "resource": "data/msg8.dat",
+  "entries": {
+    "2/40_0": {
+      "original_lines": [
+        "また来たの？"
+      ],
+      "translated_lines": [
+        "又来了吗？"
+      ]
+    },
+    "2/120_0": {
+      "original_lines": [
+        "今日はもう疲れたし"
+      ],
+      "translated_lines": [
+        "今天我已经累了"
+      ]
+    },
+    "2/210_0": {
+      "original_lines": [
+        "そろそろ寝ようと思っていたのに"
+      ],
+      "translated_lines": [
+        "差不多应该要去睡觉了呢"
+      ]
+    },
+    "2/300_0": {
+      "original_lines": [
+        "約束通り、夜に来たわ"
+      ],
+      "translated_lines": [
+        "按照约定，我晚上来了"
+      ]
+    },
+    "0/60_0": {
+      "original_lines": [
+        "そろそろ、本命が出てきてもいい頃だわ"
+      ],
+      "translated_lines": [
+        "差不多，该到最后的家伙出来的时刻了"
+      ]
+    },
+    "0/61_0": {
+      "original_lines": [
+        "こんなにも闇が深いし"
+      ],
+      "translated_lines": [
+        "夜已经如此之深了"
+      ]
+    },
+    "0/61_1": {
+      "original_lines": [
+        "出てきましょうか？"
+      ],
+      "translated_lines": [
+        "要我出来吗？"
+      ]
+    },
+    "0/102_0": {
+      "original_lines": [
+        "ほら、出てきました"
+      ],
+      "translated_lines": [
+        "看，现在出来了"
+      ]
+    },
+    "0/103_0": {
+      "original_lines": [
+        "あ、丁度いいところに出てきた"
+      ],
+      "translated_lines": [
+        "啊，出来的正好呢"
+      ]
+    },
+    "0/104_h1_0": {
+      "original_lines": [
+        "　　　神隠しの主犯　　　　",
+        "八雲　紫（やくも　ゆかり）"
+      ],
+      "translated_lines": [
+        "神隐的主犯",
+        " 八云　紫"
+      ]
+    },
+    "0/104_0": {
+      "original_lines": [
+        "あなたが、私の藍を倒した人間ね"
+      ],
+      "translated_lines": [
+        "你就是打倒了我的蓝的人类呢"
+      ]
+    },
+    "0/105_0": {
+      "original_lines": [
+        "あなたみたいな物騒な人間が居たら"
+      ],
+      "translated_lines": [
+        "就因为有你这样不老实的人类在"
+      ]
+    },
+    "0/106_0": {
+      "original_lines": [
+        "おちおち寝ても居られないの"
+      ],
+      "translated_lines": [
+        "让人连个安稳觉都睡不了"
+      ]
+    },
+    "0/107_0": {
+      "original_lines": [
+        "全然、起きてこなかったじゃない"
+      ],
+      "translated_lines": [
+        "你当时不是根本就没起来吗？"
+      ]
+    },
+    "0/108_0": {
+      "original_lines": [
+        "今は起きているの"
+      ],
+      "translated_lines": [
+        "现在起来了"
+      ]
+    },
+    "0/109_0": {
+      "original_lines": [
+        "そんなことより、あなた・・・"
+      ],
+      "translated_lines": [
+        "比起那些，你……"
+      ]
+    },
+    "0/110_0": {
+      "original_lines": [
+        "はい？"
+      ],
+      "translated_lines": [
+        "怎么？"
+      ]
+    },
+    "0/111_0": {
+      "original_lines": [
+        "博麗神社のおめでたい人じゃないかしら"
+      ],
+      "translated_lines": [
+        "就是博丽神社的那个冒傻气的人吧"
+      ]
+    },
+    "0/112_0": {
+      "original_lines": [
+        "前半はそうで、後半はそうじゃない"
+      ],
+      "translated_lines": [
+        "前半句正确，后半句错误"
+      ]
+    },
+    "0/113_0": {
+      "original_lines": [
+        "博麗の結界は、北東側が薄くなっているわ"
+      ],
+      "translated_lines": [
+        "博丽的结界，其东北侧正在变薄哦"
+      ]
+    },
+    "0/114_0": {
+      "original_lines": [
+        "あのままだと、破れてしまうかも知れない"
+      ],
+      "translated_lines": [
+        "这样下去的话，说不定会破呢"
+      ]
+    },
+    "0/115_0": {
+      "original_lines": [
+        "あらそう、それは危険だわ",
+        "わざわざ有難うございます"
+      ],
+      "translated_lines": [
+        "啊呀是吗，那可真危险",
+        "感谢你还特意告知"
+      ]
+    },
+    "0/116_0": {
+      "original_lines": [
+        "いえいえ、私が穴を空けてみただけです"
+      ],
+      "translated_lines": [
+        "哪里哪里，我只是试着开了个洞而已"
+      ]
+    },
+    "0/117_0": {
+      "original_lines": [
+        "って、引き直しておきなさい！"
+      ],
+      "translated_lines": [
+        "等等，给我立刻修复好！"
+      ]
+    },
+    "0/118_0": {
+      "original_lines": [
+        "所詮、妖怪は妖怪"
+      ],
+      "translated_lines": [
+        "妖怪终归是妖怪"
+      ]
+    },
+    "0/119_0": {
+      "original_lines": [
+        "妖怪の始末も後始末も、人間がやる",
+        "ことになるのね"
+      ],
+      "translated_lines": [
+        "收拾妖怪和进行善后",
+        "正是人类要做的"
+      ]
+    },
+    "0/120_0": {
+      "original_lines": [
+        "あら、あなたは気がついていない？"
+      ],
+      "translated_lines": [
+        "哎呀，你没注意到吗？"
+      ]
+    },
+    "0/121_0": {
+      "original_lines": [
+        "？"
+      ],
+      "translated_lines": [
+        "？"
+      ]
+    },
+    "0/122_0": {
+      "original_lines": [
+        "今、ここ白玉楼の私の周りは"
+      ],
+      "translated_lines": [
+        "现在，在这个白玉楼上我周围"
+      ]
+    },
+    "0/123_0": {
+      "original_lines": [
+        "妖怪と人間の境界が薄くなって",
+        "いることに"
+      ],
+      "translated_lines": [
+        "妖怪和人类的境界",
+        "变得稀薄了的事"
+      ]
+    },
+    "0/124_0": {
+      "original_lines": [
+        "ここまで来た時点で、人間の境界を",
+        "越していることに"
+      ],
+      "translated_lines": [
+        "还有在来到这里的同时，也就跨过了",
+        "人类的境界的事"
+      ]
+    },
+    "0/125_0": {
+      "original_lines": [
+        "いいから、その境界も引き直して",
+        "もらうわ"
+      ],
+      "translated_lines": [
+        "好了，请把那个境界也给修补了吧"
+      ]
+    },
+    "0/126_0": {
+      "original_lines": [
+        "元々、目的はあんたに冥界の境界を",
+        "引きなおさせること"
+      ],
+      "translated_lines": [
+        "本来我的目的就是要找你修复冥界的境界",
+        "既然那样"
+      ]
+    },
+    "0/127_0": {
+      "original_lines": [
+        "そこに来て、一つや二つ結界が",
+        "増えても変らないでしょ？"
+      ],
+      "translated_lines": [
+        "要修复的结界增加一两个",
+        "不也没什么不同吗？"
+      ]
+    },
+    "0/128_0": {
+      "original_lines": [
+        "一つや二つ・・・"
+      ],
+      "translated_lines": [
+        "一两个…"
+      ]
+    },
+    "0/129_0": {
+      "original_lines": [
+        "結界は、そんなに少ないと思って？"
+      ],
+      "translated_lines": [
+        "你认为，结界会那么少吗？"
+      ]
+    },
+    "1/60_0": {
+      "original_lines": [
+        "さーて、約束通り仕事して",
+        "貰おうかしら"
+      ],
+      "translated_lines": [
+        "那么，按照约定好的开始工作"
+      ]
+    },
+    "1/61_0": {
+      "original_lines": [
+        "言われなくてもするつもりだったのに"
+      ],
+      "translated_lines": [
+        "本来你不说我也准备去做的"
+      ]
+    },
+    "1/62_0": {
+      "original_lines": [
+        "嘘ばっかり"
+      ],
+      "translated_lines": [
+        "净说瞎话"
+      ]
+    },
+    "1/63_0": {
+      "original_lines": [
+        "何時まで経っても、起きてこなかった",
+        "じゃない"
+      ],
+      "translated_lines": [
+        "你不是过了多久，都还不起来吗"
+      ]
+    },
+    "1/64_0": {
+      "original_lines": [
+        "それは、寝ていたからだわ"
+      ],
+      "translated_lines": [
+        "那是因为，睡着了的缘故啦"
+      ]
+    },
+    "1/65_0": {
+      "original_lines": [
+        "それは当たり前"
+      ],
+      "translated_lines": [
+        "不说也知道"
+      ]
+    },
+    "1/66_0": {
+      "original_lines": [
+        "とにもかくにも、私がここにいる時点で"
+      ],
+      "translated_lines": [
+        "总之，我在这里这件事就证明了"
+      ]
+    },
+    "1/67_0": {
+      "original_lines": [
+        "ちゃんと仕事しようとしている",
+        "証拠じゃない"
+      ],
+      "translated_lines": [
+        "确实准备好好工作",
+        "这就是证据"
+      ]
+    },
+    "1/68_0": {
+      "original_lines": [
+        "仕事をしようとしている、と",
+        "仕事をしているは違う！"
+      ],
+      "translated_lines": [
+        "准备工作和做工作",
+        "是两码事！"
+      ]
+    },
+    "1/69_0": {
+      "original_lines": [
+        "神社にまるで居ないあなたより"
+      ],
+      "translated_lines": [
+        "比起在神社就跟不在一样的你来"
+      ]
+    },
+    "1/70_0": {
+      "original_lines": [
+        "よっぽど仕事していると思うけど"
+      ],
+      "translated_lines": [
+        "我觉得我还是蛮认真工作的"
+      ]
+    },
+    "1/71_0": {
+      "original_lines": [
+        "私の仕事は妖魔調伏"
+      ],
+      "translated_lines": [
+        "我的工作是伏魔降妖"
+      ]
+    },
+    "1/72_0": {
+      "original_lines": [
+        "残虐行為手当が欲しいくらいだわ"
+      ],
+      "translated_lines": [
+        "我就想要些残酷暴行的补贴"
+      ]
+    },
+    "1/73_0": {
+      "original_lines": [
+        "あら、もうそろそろ夜が明けるわ"
+      ],
+      "translated_lines": [
+        "哎呀，差不多天都要亮了呢"
+      ]
+    },
+    "1/74_0": {
+      "original_lines": [
+        "帰って寝ないと・・・"
+      ],
+      "translated_lines": [
+        "不快点回去睡觉的话……"
+      ]
+    },
+    "1/75_0": {
+      "original_lines": [
+        "全然、仕事してないし"
+      ],
+      "translated_lines": [
+        "完全，就没干什么活嘛"
+      ]
+    },
+    "1/76_0": {
+      "original_lines": [
+        "あんた、一体何処に住んでるのよ"
+      ],
+      "translated_lines": [
+        "你这家伙，究竟住什么地方？"
+      ]
+    },
+    "1/77_0": {
+      "original_lines": [
+        "私もあなたと同じ"
+      ],
+      "translated_lines": [
+        "我也和你一样住在"
+      ]
+    },
+    "1/78_0": {
+      "original_lines": [
+        "幻想郷の境に住んでいるわ"
+      ],
+      "translated_lines": [
+        "幻想乡的边境上"
+      ]
+    },
+    "1/79_0": {
+      "original_lines": [
+        "艮（うしとら）の境に"
+      ],
+      "translated_lines": [
+        "就住在艮（东北）之境"
+      ]
+    },
+    "1/80_0": {
+      "original_lines": [
+        "まさに鬼門"
+      ],
+      "translated_lines": [
+        "确实是鬼门呢"
+      ]
+    },
+    "1/81_0": {
+      "original_lines": [
+        "勝手に結界に穴を空けたりしないでね"
+      ],
+      "translated_lines": [
+        "不要再随便在结界上开洞了啊"
+      ]
+    },
+    "1/82_0": {
+      "original_lines": [
+        "あら、闘う前に私が空けた、って",
+        "いいませんでしたか？"
+      ],
+      "translated_lines": [
+        "哎呀，在战斗前我就已经开过了",
+        "当时没说吗？"
+      ]
+    },
+    "1/83_0": {
+      "original_lines": [
+        "帰って寝てろ！"
+      ],
+      "translated_lines": [
+        "回去睡你的觉！"
+      ]
+    },
+    "12/40_0": {
+      "original_lines": [
+        "また来たの？"
+      ],
+      "translated_lines": [
+        "又来了吗？"
+      ]
+    },
+    "12/120_0": {
+      "original_lines": [
+        "今日はもう疲れたし"
+      ],
+      "translated_lines": [
+        "今天我已经累了"
+      ]
+    },
+    "12/210_0": {
+      "original_lines": [
+        "そろそろ寝ようと思っていたのに"
+      ],
+      "translated_lines": [
+        "差不多应该要去睡觉了呢"
+      ]
+    },
+    "12/300_0": {
+      "original_lines": [
+        "それは良い心がけだ"
+      ],
+      "translated_lines": [
+        "你想得很周到"
+      ]
+    },
+    "10/60_0": {
+      "original_lines": [
+        "おかしい"
+      ],
+      "translated_lines": [
+        "不对劲"
+      ]
+    },
+    "10/61_0": {
+      "original_lines": [
+        "絶対におかしいぜ"
+      ],
+      "translated_lines": [
+        "绝对有些不对劲"
+      ]
+    },
+    "10/61_1": {
+      "original_lines": [
+        "何がでしょうか？"
+      ],
+      "translated_lines": [
+        "是什么事呢？"
+      ]
+    },
+    "10/102_0": {
+      "original_lines": [
+        "今宵の月の色の事かしら？",
+        "それとも"
+      ],
+      "translated_lines": [
+        "是说今宵的月色么？",
+        "还是"
+      ]
+    },
+    "10/104_0": {
+      "original_lines": [
+        "月の明度だ"
+      ],
+      "translated_lines": [
+        "月光的亮度"
+      ]
+    },
+    "10/105_0": {
+      "original_lines": [
+        "明るすぎないか？"
+      ],
+      "translated_lines": [
+        "不觉得太亮了么？"
+      ]
+    },
+    "10/106_0": {
+      "original_lines": [
+        "月の光は、太陽の光の反射"
+      ],
+      "translated_lines": [
+        "月光乃是日光的反射所形成"
+      ]
+    },
+    "10/107_0": {
+      "original_lines": [
+        "夜と昼の境界を繋ぐ、唯一の鍵です"
+      ],
+      "translated_lines": [
+        "是连结黑夜与白昼的境界唯一的钥匙"
+      ]
+    },
+    "10/108_0": {
+      "original_lines": [
+        "明るいのは、今が昼とも夜ともつかない",
+        "状態だというのか？"
+      ],
+      "translated_lines": [
+        "很亮的话是不是因为现在是无法分辨",
+        "白昼与黑夜的状态？"
+      ]
+    },
+    "10/109_0": {
+      "original_lines": [
+        "ただ、ここが雲の上だからじゃないかしら"
+      ],
+      "translated_lines": [
+        "难道不是单因为这里是云顶之上吗"
+      ]
+    },
+    "10/110_0": {
+      "original_lines": [
+        "で、誰だ？"
+      ],
+      "translated_lines": [
+        "等等，你是谁？"
+      ]
+    },
+    "10/111_h1_0": {
+      "original_lines": [
+        "　　　神隠しの主犯　　　　",
+        "八雲　紫（やくも　ゆかり）"
+      ],
+      "translated_lines": [
+        "神隐的主犯",
+        " 八云　紫"
+      ]
+    },
+    "10/111_0": {
+      "original_lines": [
+        "あなたの事は、藍から聞いたわ"
+      ],
+      "translated_lines": [
+        "你的事情，我已经从蓝那里听了"
+      ]
+    },
+    "10/112_0": {
+      "original_lines": [
+        "狐の親分か"
+      ],
+      "translated_lines": [
+        "是狐狸的老大吗"
+      ]
+    },
+    "10/113_0": {
+      "original_lines": [
+        "どうも、うちの藍が迷惑をかけたようで"
+      ],
+      "translated_lines": [
+        "你好，我家蓝似乎给你添了麻烦"
+      ]
+    },
+    "10/114_0": {
+      "original_lines": [
+        "私にというか、あの世の人にだが"
+      ],
+      "translated_lines": [
+        "与其说给我添了麻烦，",
+        "不如说给彼世的人添麻烦"
+      ]
+    },
+    "10/115_0": {
+      "original_lines": [
+        "私がもっと"
+      ],
+      "translated_lines": [
+        "我再试着"
+      ]
+    },
+    "10/116_0": {
+      "original_lines": [
+        "暴れてみてもいいんですが"
+      ],
+      "translated_lines": [
+        "闹腾一下似乎也不错呢"
+      ]
+    },
+    "10/117_0": {
+      "original_lines": [
+        "迷惑の親分か"
+      ],
+      "translated_lines": [
+        "麻烦的老大吗"
+      ]
+    },
+    "10/118_0": {
+      "original_lines": [
+        "あなたは気がついていない"
+      ],
+      "translated_lines": [
+        "你没有察觉到"
+      ]
+    },
+    "10/119_0": {
+      "original_lines": [
+        "？"
+      ],
+      "translated_lines": [
+        "？"
+      ]
+    },
+    "10/120_0": {
+      "original_lines": [
+        "今宵は新月であったことに"
+      ],
+      "translated_lines": [
+        "今宵是新月之夜的事"
+      ]
+    },
+    "10/121_0": {
+      "original_lines": [
+        "すでに、昼と夜の境界は私の手の内に",
+        "あることに"
+      ],
+      "translated_lines": [
+        "还有就是白昼和黑夜的界线已经掌握",
+        "在我手中了的事"
+      ]
+    },
+    "10/122_0": {
+      "original_lines": [
+        "夕方の妖怪か？"
+      ],
+      "translated_lines": [
+        "傍晚的妖怪吗？"
+      ]
+    },
+    "10/123_0": {
+      "original_lines": [
+        "そんなもん手の内にあっても・・・"
+      ],
+      "translated_lines": [
+        "那种东西就算掌握在手中也是…"
+      ]
+    },
+    "10/124_0": {
+      "original_lines": [
+        "明け方？"
+      ],
+      "translated_lines": [
+        "黎明的妖怪？"
+      ]
+    },
+    "10/125_0": {
+      "original_lines": [
+        "あなたは、すでに私の結界の内にいる"
+      ],
+      "translated_lines": [
+        "你现在已经落入我的结界当中"
+      ]
+    },
+    "10/126_0": {
+      "original_lines": [
+        "ここに居る内は夜も明ける事はない"
+      ],
+      "translated_lines": [
+        "在这段时间中，不会有黎明的一刻"
+      ]
+    },
+    "10/127_0": {
+      "original_lines": [
+        "なんだ、夜桜の妖怪か"
+      ],
+      "translated_lines": [
+        "什么啊，原来是夜樱妖怪"
+      ]
+    },
+    "10/128_0": {
+      "original_lines": [
+        "私の結界を見つける手段は無い！"
+      ],
+      "translated_lines": [
+        "发现我的结界是不可能的！"
+      ]
+    },
+    "11/60_0": {
+      "original_lines": [
+        "お、夜も明けそうな時間だが"
+      ],
+      "translated_lines": [
+        "哦，要到黎明的时间了"
+      ]
+    },
+    "11/61_0": {
+      "original_lines": [
+        "流石にもう疲れました～"
+      ],
+      "translated_lines": [
+        "不过还真是有点累了~"
+      ]
+    },
+    "11/62_0": {
+      "original_lines": [
+        "大したことも無い"
+      ],
+      "translated_lines": [
+        "倒也没闹多大"
+      ]
+    },
+    "11/63_0": {
+      "original_lines": [
+        "まだ、冬眠明けで体力不足なのよ"
+      ],
+      "translated_lines": [
+        "刚从冬眠中醒来所以体力不足而已"
+      ]
+    },
+    "11/64_0": {
+      "original_lines": [
+        "冬眠前に蜂蜜でも大量に蓄えるのか？"
+      ],
+      "translated_lines": [
+        "冬眠前也会积蓄大量的蜂蜜吗？"
+      ]
+    },
+    "11/65_0": {
+      "original_lines": [
+        "人"
+      ],
+      "translated_lines": [
+        "人"
+      ]
+    },
+    "11/66_0": {
+      "original_lines": [
+        "そう"
+      ],
+      "translated_lines": [
+        "是吗"
+      ]
+    },
+    "11/67_0": {
+      "original_lines": [
+        "睡眠中は藍任せなんだけど"
+      ],
+      "translated_lines": [
+        "平常睡眠时都把一切交给蓝"
+      ]
+    },
+    "11/68_0": {
+      "original_lines": [
+        "なんだか今年は目覚めが悪い"
+      ],
+      "translated_lines": [
+        "今年醒来后总觉得不舒服"
+      ]
+    },
+    "11/69_0": {
+      "original_lines": [
+        "冬が長すぎたんじゃない？"
+      ],
+      "translated_lines": [
+        "不觉得冬天太长了吗？"
+      ]
+    },
+    "11/70_0": {
+      "original_lines": [
+        "ああ、そうか、それで人不足なのね"
+      ],
+      "translated_lines": [
+        "啊啊，是吗，所以才人手不足的呢"
+      ]
+    },
+    "11/71_0": {
+      "original_lines": [
+        "人不足って、用途合ってるような"
+      ],
+      "translated_lines": [
+        "人手不足，好像用得对"
+      ]
+    },
+    "11/72_0": {
+      "original_lines": [
+        "・・・合ってないんだろうな"
+      ],
+      "translated_lines": [
+        "…其实用错了吧"
+      ]
+    },
+    "11/73_0": {
+      "original_lines": [
+        "私なら、春と冬の境界を操る事くらい",
+        "容易いのに"
+      ],
+      "translated_lines": [
+        "我的话，其实想要操纵春和冬的界线",
+        "是很简单的"
+      ]
+    },
+    "11/74_0": {
+      "original_lines": [
+        "あなたなんかに任せたから遅れたのね"
+      ],
+      "translated_lines": [
+        "就是因为拜托你结果才弄迟了"
+      ]
+    },
+    "11/75_0": {
+      "original_lines": [
+        "誰も任されてなど居ない"
+      ],
+      "translated_lines": [
+        "谁也没说要拜托我"
+      ]
+    },
+    "11/76_0": {
+      "original_lines": [
+        "それに境界を弄られたら、春一番が",
+        "北風になるぜ"
+      ],
+      "translated_lines": [
+        "况且结界要是被你给摆弄的话，初春第一次南风",
+        "就该变北风了"
+      ]
+    },
+    "11/77_0": {
+      "original_lines": [
+        "ご名答"
+      ],
+      "translated_lines": [
+        "非常对"
+      ]
+    },
+    "11/78_0": {
+      "original_lines": [
+        "あと、お前が寝ながら（冬眠しながら）",
+        "起きる"
+      ],
+      "translated_lines": [
+        "还有，你是一边睡觉（一边冬眠）",
+        "一边起来的"
+      ]
+    },
+    "11/79_0": {
+      "original_lines": [
+        "夢遊病？"
+      ],
+      "translated_lines": [
+        "梦游症？"
+      ]
+    },
+    "11/80_0": {
+      "original_lines": [
+        "あれも私の得意技なの"
+      ],
+      "translated_lines": [
+        "那也是我的得意之技"
+      ]
+    },
+    "11/81_0": {
+      "original_lines": [
+        "得意技って・・・",
+        "病ってついてるじゃないか"
+      ],
+      "translated_lines": [
+        "得意之技么…",
+        "不该在上面加个病字么？"
+      ]
+    },
+    "11/82_0": {
+      "original_lines": [
+        "私がじゃなくて"
+      ],
+      "translated_lines": [
+        "不是说我啦"
+      ]
+    },
+    "11/83_0": {
+      "original_lines": [
+        "人間を夢遊病にする"
+      ],
+      "translated_lines": [
+        "人之所以会得梦游症"
+      ]
+    },
+    "11/84_0": {
+      "original_lines": [
+        "睡眠と覚醒の境界を弄るだけよ"
+      ],
+      "translated_lines": [
+        "也因为我在摆弄睡眠和清醒的界线"
+      ]
+    },
+    "11/85_0": {
+      "original_lines": [
+        "便利な奴だぜ"
+      ],
+      "translated_lines": [
+        "方便的家伙"
+      ]
+    },
+    "11/86_0": {
+      "original_lines": [
+        "それはそうと、そろそろ夜が明けて",
+        "も良いんじゃないか？"
+      ],
+      "translated_lines": [
+        "先不管那些，现在也该让天亮起来了",
+        "如何？"
+      ]
+    },
+    "11/87_0": {
+      "original_lines": [
+        "時間はもうとっくに日の入りね"
+      ],
+      "translated_lines": [
+        "时间上早就已经日落了"
+      ]
+    },
+    "11/88_0": {
+      "original_lines": [
+        "夜なのはこの辺りだけ・・・"
+      ],
+      "translated_lines": [
+        "只有这一带是夜晚…"
+      ]
+    },
+    "11/89_0": {
+      "original_lines": [
+        "くそ、徹夜で目の下にクマが"
+      ],
+      "translated_lines": [
+        "可恶，想让我通宵之后有黑眼圈吗"
+      ]
+    },
+    "11/90_0": {
+      "original_lines": [
+        "謀ったな！"
+      ],
+      "translated_lines": [
+        "你算计我！"
+      ]
+    },
+    "11/91_0": {
+      "original_lines": [
+        "謀ってない"
+      ],
+      "translated_lines": [
+        "没算计"
+      ]
+    },
+    "22/40_0": {
+      "original_lines": [
+        "また来たの？"
+      ],
+      "translated_lines": [
+        "又来了吗？"
+      ]
+    },
+    "22/120_0": {
+      "original_lines": [
+        "今日はもう疲れたし"
+      ],
+      "translated_lines": [
+        "今天我已经累了"
+      ]
+    },
+    "22/210_0": {
+      "original_lines": [
+        "そろそろ寝ようと思っていたのに"
+      ],
+      "translated_lines": [
+        "差不多应该要去睡觉了呢"
+      ]
+    },
+    "22/300_0": {
+      "original_lines": [
+        "今度こそ眠らせてあげるわ"
+      ],
+      "translated_lines": [
+        "这次我一定会让你安眠的"
+      ]
+    },
+    "20/60_0": {
+      "original_lines": [
+        "この辺りの治安は"
+      ],
+      "translated_lines": [
+        "这附近的治安"
+      ]
+    },
+    "20/61_0": {
+      "original_lines": [
+        "昔からこうなのかしら"
+      ],
+      "translated_lines": [
+        "从以前就是这样的吗？"
+      ]
+    },
+    "20/61_1": {
+      "original_lines": [
+        "あの世に法など無いの"
+      ],
+      "translated_lines": [
+        "彼世没有法律的"
+      ]
+    },
+    "20/102_0": {
+      "original_lines": [
+        "死刑は出来ないですから"
+      ],
+      "translated_lines": [
+        "因为无法执行死刑"
+      ]
+    },
+    "20/103_0": {
+      "original_lines": [
+        "あら夜摩天（閻魔様の事）は？"
+      ],
+      "translated_lines": [
+        "那夜摩天（指阎魔大人）呢？"
+      ]
+    },
+    "20/104_0": {
+      "original_lines": [
+        "夜摩天より力があれば",
+        "どうとでもなる"
+      ],
+      "translated_lines": [
+        "要是有了超过夜摩天的力量",
+        "想怎样都行"
+      ]
+    },
+    "20/106_0": {
+      "original_lines": [
+        "ここは、いや、ここもそういう世界なの"
+      ],
+      "translated_lines": [
+        "这里是，不对，这里也是那样的世界～"
+      ]
+    },
+    "20/107_0": {
+      "original_lines": [
+        "力とは経済力？"
+      ],
+      "translated_lines": [
+        "力量就是经济力？"
+      ]
+    },
+    "20/108_0": {
+      "original_lines": [
+        "智恵よ"
+      ],
+      "translated_lines": [
+        "是智慧哦"
+      ]
+    },
+    "20/109_0": {
+      "original_lines": [
+        "で、智恵のあるあなたは誰？"
+      ],
+      "translated_lines": [
+        "那，有智慧的你是谁？"
+      ]
+    },
+    "20/110_h1_0": {
+      "original_lines": [
+        "　　　神隠しの主犯　　　　",
+        "八雲　紫（やくも　ゆかり）"
+      ],
+      "translated_lines": [
+        "神隐的主犯",
+        " 八云　紫"
+      ]
+    },
+    "20/110_0": {
+      "original_lines": [
+        "あなたの事は、藍から聞いたわ"
+      ],
+      "translated_lines": [
+        "你的事情我已经从蓝那里听说了"
+      ]
+    },
+    "20/111_0": {
+      "original_lines": [
+        "あら、私も有名になったものだわ"
+      ],
+      "translated_lines": [
+        "哎呀，我也成了名人了"
+      ]
+    },
+    "20/112_0": {
+      "original_lines": [
+        "有名人であるあなたに、ちょっと会って",
+        "見たくてね"
+      ],
+      "translated_lines": [
+        "我想来稍微会会你这个名人"
+      ]
+    },
+    "20/113_0": {
+      "original_lines": [
+        "それで起きてきたというわけ？"
+      ],
+      "translated_lines": [
+        "所以就起来了是吗？"
+      ]
+    },
+    "20/114_0": {
+      "original_lines": [
+        "でも、サインも出来ないけど"
+      ],
+      "translated_lines": [
+        "不过，我估计没法给你签名"
+      ]
+    },
+    "20/115_0": {
+      "original_lines": [
+        "いやぁ、直筆の二枚舌で結構です～"
+      ],
+      "translated_lines": [
+        "不用，有你亲笔说出的瞎话就足矣了～"
+      ]
+    },
+    "20/116_0": {
+      "original_lines": [
+        "直筆？"
+      ],
+      "translated_lines": [
+        "亲笔？"
+      ]
+    },
+    "20/117_0": {
+      "original_lines": [
+        "あなたは気がついていない"
+      ],
+      "translated_lines": [
+        "你没有注意到"
+      ]
+    },
+    "20/118_0": {
+      "original_lines": [
+        "あなたの智恵が無いことにですか？"
+      ],
+      "translated_lines": [
+        "你实际上是没有智慧的事么？"
+      ]
+    },
+    "20/119_0": {
+      "original_lines": [
+        "極楽と地獄の境界が曖昧に",
+        "なっている事に"
+      ],
+      "translated_lines": [
+        "极乐与地狱的境界",
+        "变得暧昧了的事"
+      ]
+    },
+    "20/120_0": {
+      "original_lines": [
+        "ここは鬼達の無法地帯に",
+        "なっている事に"
+      ],
+      "translated_lines": [
+        "还有这里",
+        "变成了鬼们无法无天的地带的事"
+      ]
+    },
+    "20/121_0": {
+      "original_lines": [
+        "地獄だなんて、魔界より怖くない"
+      ],
+      "translated_lines": [
+        "地狱什么的，和魔界相比根本没什么可怕的"
+      ]
+    },
+    "20/122_0": {
+      "original_lines": [
+        "鬼だなんて、悪魔に比べたらなんて",
+        "事も無いわ"
+      ],
+      "translated_lines": [
+        "鬼什么的，和恶魔比根本就",
+        "不算什么"
+      ]
+    },
+    "20/123_0": {
+      "original_lines": [
+        "あなたは此処から抜け出せない"
+      ],
+      "translated_lines": [
+        "你没法逃出这里的"
+      ]
+    },
+    "20/124_0": {
+      "original_lines": [
+        "それが無間地獄"
+      ],
+      "translated_lines": [
+        "那正是无间地狱"
+      ]
+    },
+    "20/125_0": {
+      "original_lines": [
+        "大丈夫、一本の蜘蛛の糸さえあれば"
+      ],
+      "translated_lines": [
+        "没关系，只要有一根蜘蛛丝"
+      ]
+    },
+    "20/126_0": {
+      "original_lines": [
+        "極楽の境界を見つけられる"
+      ],
+      "translated_lines": [
+        "就能找到极乐的境界"
+      ]
+    },
+    "20/127_0": {
+      "original_lines": [
+        "ふふふ"
+      ],
+      "translated_lines": [
+        "呵呵呵"
+      ]
+    },
+    "20/128_0": {
+      "original_lines": [
+        "その道が、蜘蛛の糸より細く"
+      ],
+      "translated_lines": [
+        "即便那是一条比蜘蛛丝更细"
+      ]
+    },
+    "20/129_0": {
+      "original_lines": [
+        "蜘蛛の糸より複雑な弾幕の道でも？"
+      ],
+      "translated_lines": [
+        "比蜘蛛网更复杂的弹幕之路？"
+      ]
+    },
+    "21/60_0": {
+      "original_lines": [
+        "あ～、極楽極楽"
+      ],
+      "translated_lines": [
+        "啊～，极乐极乐"
+      ]
+    },
+    "21/61_0": {
+      "original_lines": [
+        "あんな道を通るなんて聞いてないです～"
+      ],
+      "translated_lines": [
+        "从没听说过那样的道路也有人能通过～"
+      ]
+    },
+    "21/62_0": {
+      "original_lines": [
+        "蜘蛛の糸ったって、蜘蛛より大きな",
+        "昆虫でも捕まえられる"
+      ],
+      "translated_lines": [
+        "蜘蛛的丝，就算是比蜘蛛大的昆虫",
+        "也能被抓住"
+      ]
+    },
+    "21/63_0": {
+      "original_lines": [
+        "蝶でもね"
+      ],
+      "translated_lines": [
+        "蝴蝶也一样"
+      ]
+    },
+    "21/64_0": {
+      "original_lines": [
+        "やっぱりあれか"
+      ],
+      "translated_lines": [
+        "你就是那个吗？"
+      ]
+    },
+    "21/65_0": {
+      "original_lines": [
+        "夜の蜘蛛は泥棒に入られる"
+      ],
+      "translated_lines": [
+        "夜晚的蜘蛛会招来小偷"
+      ]
+    },
+    "21/66_0": {
+      "original_lines": [
+        "泥棒とは人聞きの悪いわ"
+      ],
+      "translated_lines": [
+        "说小偷太难听了"
+      ]
+    },
+    "21/67_0": {
+      "original_lines": [
+        "メイドの格好していれば、何処に忍び",
+        "込んでも、割と平気だけど"
+      ],
+      "translated_lines": [
+        "只要扮成一副女仆的样子，",
+        "不管潜入什么地方都没问题"
+      ]
+    },
+    "21/68_0": {
+      "original_lines": [
+        "私の家に来ても何も無いですわ"
+      ],
+      "translated_lines": [
+        "你就算来我家也什么都没有"
+      ]
+    },
+    "21/69_0": {
+      "original_lines": [
+        "同じ境にある神社よりはましですけど"
+      ],
+      "translated_lines": [
+        "相比之下同一境界里的神社要好多了"
+      ]
+    },
+    "21/70_0": {
+      "original_lines": [
+        "そうで無くても"
+      ],
+      "translated_lines": [
+        "就算你不说"
+      ]
+    },
+    "21/71_0": {
+      "original_lines": [
+        "寝ているだけの家に何かあるとは",
+        "思えない"
+      ],
+      "translated_lines": [
+        "我也不觉得只用来睡觉的家会有",
+        "什么东西"
+      ]
+    },
+    "21/72_0": {
+      "original_lines": [
+        "失礼ね",
+        "色々あるわよ"
+      ],
+      "translated_lines": [
+        "失礼啊",
+        "有很多东西呢"
+      ]
+    },
+    "21/73_0": {
+      "original_lines": [
+        "さっきは何も無いと言った"
+      ],
+      "translated_lines": [
+        "刚才还说什么都没有"
+      ]
+    },
+    "21/74_0": {
+      "original_lines": [
+        "お布団とか"
+      ],
+      "translated_lines": [
+        "被窝什么的"
+      ]
+    },
+    "21/75_0": {
+      "original_lines": [
+        "そんなもの誰も取りませんて"
+      ],
+      "translated_lines": [
+        "那种东西谁都不会要的"
+      ]
+    },
+    "21/76_0": {
+      "original_lines": [
+        "枕とか"
+      ],
+      "translated_lines": [
+        "枕头什么的"
+      ]
+    },
+    "21/77_0": {
+      "original_lines": [
+        "本当に何も無さそう・・・"
+      ],
+      "translated_lines": [
+        "好像真的什么都没有…"
+      ]
+    },
+    "21/78_0": {
+      "original_lines": [
+        "でも漂流物がよく届くわ"
+      ],
+      "translated_lines": [
+        "不过经常有漂浮物过来"
+      ]
+    },
+    "21/79_0": {
+      "original_lines": [
+        "海なんてあったっけ？"
+      ],
+      "translated_lines": [
+        "这里还有海？"
+      ]
+    },
+    "21/80_0": {
+      "original_lines": [
+        "子供とか大人とか"
+      ],
+      "translated_lines": [
+        "小孩和大人什么的"
+      ]
+    },
+    "21/81_0": {
+      "original_lines": [
+        "ちゃんと返してあげなさいね"
+      ],
+      "translated_lines": [
+        "好好送回去啊"
+      ]
+    }
+  }
+}

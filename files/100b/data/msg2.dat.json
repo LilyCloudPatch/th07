@@ -1,0 +1,447 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th07_100b",
+  "resource": "data/msg2.dat",
+  "entries": {
+    "0/60_0": {
+      "original_lines": [
+        "はて"
+      ],
+      "translated_lines": [
+        "怎么"
+      ]
+    },
+    "0/61_0": {
+      "original_lines": [
+        "こんなところに家があったっけ？"
+      ],
+      "translated_lines": [
+        "这种地方也会有人家吗？"
+      ]
+    },
+    "0/101_0": {
+      "original_lines": [
+        "ここに迷い込んだら最後！"
+      ],
+      "translated_lines": [
+        "在这里迷路的话就是终结！"
+      ]
+    },
+    "0/102_h1_0": {
+      "original_lines": [
+        "凶兆の黒猫　　　",
+        "橙（チェン）　　"
+      ],
+      "translated_lines": [
+        "凶兆的黑猫",
+        "橙（Chen）"
+      ]
+    },
+    "0/102_0": {
+      "original_lines": [
+        "最後？"
+      ],
+      "translated_lines": [
+        "终结？"
+      ]
+    },
+    "0/103_0": {
+      "original_lines": [
+        "それはさておき、迷い家にようこそ"
+      ],
+      "translated_lines": [
+        "先不管那些，欢迎来到迷途之家"
+      ]
+    },
+    "0/104_0": {
+      "original_lines": [
+        "で、何が最後？"
+      ],
+      "translated_lines": [
+        "那个，什么终结？"
+      ]
+    },
+    "0/105_0": {
+      "original_lines": [
+        "迷い込んだら最後、２度と戻れないわ"
+      ],
+      "translated_lines": [
+        "迷路的话就是终结，无法再回去了"
+      ]
+    },
+    "0/106_0": {
+      "original_lines": [
+        "そうですか"
+      ],
+      "translated_lines": [
+        "是吗"
+      ]
+    },
+    "0/107_0": {
+      "original_lines": [
+        "で、たしか、迷い家って"
+      ],
+      "translated_lines": [
+        "不过，的确，说到迷途之家"
+      ]
+    },
+    "0/108_0": {
+      "original_lines": [
+        "ここにあるもの",
+        "持ち帰れば幸運になれるって..."
+      ],
+      "translated_lines": [
+        "据说把这里的东西",
+        "拿回去能让人变幸运…"
+      ]
+    },
+    "0/109_0": {
+      "original_lines": [
+        "なれるわよ"
+      ],
+      "translated_lines": [
+        "会的哦"
+      ]
+    },
+    "0/110_0": {
+      "original_lines": [
+        "じゃぁ、略奪開始ー"
+      ],
+      "translated_lines": [
+        "那好，掠夺开始～"
+      ]
+    },
+    "0/111_0": {
+      "original_lines": [
+        "なんだって？"
+      ],
+      "translated_lines": [
+        "你说什么？"
+      ]
+    },
+    "0/112_0": {
+      "original_lines": [
+        "ここは、私達の里よ",
+        "人間は出てってくれる？"
+      ],
+      "translated_lines": [
+        "这里可是我们的村庄哦",
+        "人类能给我们出去吗？"
+      ]
+    },
+    "0/113_0": {
+      "original_lines": [
+        "迷い込んだら、２度と戻れないわ",
+        "... は、どうなったのよ"
+      ],
+      "translated_lines": [
+        "迷路了的话就无法再回去",
+        "…这个设定哪去了"
+      ]
+    },
+    "1/60_0": {
+      "original_lines": [
+        "とりあえず"
+      ],
+      "translated_lines": [
+        "总之"
+      ]
+    },
+    "1/60_1": {
+      "original_lines": [
+        "軽くて身近な日常品を探さないと"
+      ],
+      "translated_lines": [
+        "先在附近找点轻巧的日用品啦"
+      ]
+    },
+    "10/60_0": {
+      "original_lines": [
+        "ああもう。"
+      ],
+      "translated_lines": [
+        "啊啊烦死了。"
+      ]
+    },
+    "10/61_0": {
+      "original_lines": [
+        "ここは人間の様な何かが棲みそうな所だな"
+      ],
+      "translated_lines": [
+        "这里貌似是某些和人类类似的东西住的地方"
+      ]
+    },
+    "10/62_0": {
+      "original_lines": [
+        "猫とか、犬とか、狐とか"
+      ],
+      "translated_lines": [
+        "像猫呀狗呀狐狸呀什么的"
+      ]
+    },
+    "10/102_0": {
+      "original_lines": [
+        "呼ばれて飛び出て..."
+      ],
+      "translated_lines": [
+        "应呼飞出……"
+      ]
+    },
+    "10/103_h1_0": {
+      "original_lines": [
+        "凶兆の黒猫　　　",
+        "橙（チェン）　　"
+      ],
+      "translated_lines": [
+        "凶兆的黑猫",
+        "橙（Chen）"
+      ]
+    },
+    "10/103_0": {
+      "original_lines": [
+        "... 出る杭は打たれる、か？"
+      ],
+      "translated_lines": [
+        "……是「枪打出头鸟」，吗？"
+      ]
+    },
+    "10/104_0": {
+      "original_lines": [
+        "で、何の用？"
+      ],
+      "translated_lines": [
+        "那个，有什么事？"
+      ]
+    },
+    "10/105_0": {
+      "original_lines": [
+        "四本足の生き物に用などないぜ"
+      ],
+      "translated_lines": [
+        "不关四只脚的生物什么事"
+      ]
+    },
+    "10/106_0": {
+      "original_lines": [
+        "迷い家にやってきたって事は、",
+        "道に迷ったんでしょ～？"
+      ],
+      "translated_lines": [
+        "来到这个迷途之家的话，",
+        "不就说明你迷路了吗～？"
+      ]
+    },
+    "10/107_0": {
+      "original_lines": [
+        "道なんて無かったけどな"
+      ],
+      "translated_lines": [
+        "虽然说根本没有所谓的路"
+      ]
+    },
+    "10/108_0": {
+      "original_lines": [
+        "さっきから吹雪で視界悪いし、",
+        "風向きもころころ変ってるから"
+      ],
+      "translated_lines": [
+        "因为刚才起就一直吹雪导致视线不良，",
+        "而且风向也经常改变呢"
+      ]
+    },
+    "10/109_0": {
+      "original_lines": [
+        "そうか、風向きが変っていたのか",
+        "どうりで"
+      ],
+      "translated_lines": [
+        "这样啊，风向改变了啊",
+        "怪不得"
+      ]
+    },
+    "10/110_0": {
+      "original_lines": [
+        "もう帰り道も判らないでしょ"
+      ],
+      "translated_lines": [
+        "已经找不到回去的路了吧"
+      ]
+    },
+    "10/111_0": {
+      "original_lines": [
+        "どうりで"
+      ],
+      "translated_lines": [
+        "怪不得"
+      ]
+    },
+    "11/60_0": {
+      "original_lines": [
+        "どうりで"
+      ],
+      "translated_lines": [
+        "怪不得"
+      ]
+    },
+    "11/60_1": {
+      "original_lines": [
+        "どうでもいい奴に遭うわけだぜ"
+      ],
+      "translated_lines": [
+        "我会遇上这种没用的家伙"
+      ]
+    },
+    "20/60_0": {
+      "original_lines": [
+        "ほんとに、もう春なのかしら"
+      ],
+      "translated_lines": [
+        "真的，已经到春天了吗"
+      ]
+    },
+    "20/61_0": {
+      "original_lines": [
+        "どう考えてもおかしいじゃない"
+      ],
+      "translated_lines": [
+        "怎么想都觉得奇怪"
+      ]
+    },
+    "20/101_0": {
+      "original_lines": [
+        "おかしいと思ったら人に聞く！"
+      ],
+      "translated_lines": [
+        "觉得奇怪的话就找个人问问！"
+      ]
+    },
+    "20/102_h1_0": {
+      "original_lines": [
+        "凶兆の黒猫　　　",
+        "橙（チェン）　　"
+      ],
+      "translated_lines": [
+        "凶兆的黑猫",
+        "橙（Chen）"
+      ]
+    },
+    "20/102_0": {
+      "original_lines": [
+        "人じゃ無いじゃない"
+      ],
+      "translated_lines": [
+        "你又不是人"
+      ]
+    },
+    "20/103_0": {
+      "original_lines": [
+        "まぁ、聞かれても答えられないけど"
+      ],
+      "translated_lines": [
+        "也是，反正被问了也不会回答你的"
+      ]
+    },
+    "20/104_0": {
+      "original_lines": [
+        "こんな日はね"
+      ],
+      "translated_lines": [
+        "这种日子呀"
+      ]
+    },
+    "20/105_0": {
+      "original_lines": [
+        "猫は大人しく炬燵で丸くなるものよ"
+      ],
+      "translated_lines": [
+        "猫应该老老实实的在被炉里缩成一团"
+      ]
+    },
+    "20/106_0": {
+      "original_lines": [
+        "そういう迷信を信じちゃ駄目！"
+      ],
+      "translated_lines": [
+        "相信那样的迷信是不行的！"
+      ]
+    },
+    "20/107_0": {
+      "original_lines": [
+        "（迷信だったのか…）"
+      ],
+      "translated_lines": [
+        "（原来是迷信呀……）"
+      ]
+    },
+    "20/108_0": {
+      "original_lines": [
+        "大体、野猫はどうすればいいのよ"
+      ],
+      "translated_lines": [
+        "毕竟，野猫要怎么办才好呀"
+      ]
+    },
+    "20/109_0": {
+      "original_lines": [
+        "大人しく保健所に駆逐されてみては",
+        "どうかしら？"
+      ],
+      "translated_lines": [
+        "老老实实地被驱逐到收容所去",
+        "如何？"
+      ]
+    },
+    "20/110_0": {
+      "original_lines": [
+        "浄土の世界は暖かそうだし"
+      ],
+      "translated_lines": [
+        "极乐净土的世界看起来也很温暖"
+      ]
+    },
+    "20/111_0": {
+      "original_lines": [
+        "人間が？私達を？"
+      ],
+      "translated_lines": [
+        "人类？把我们？"
+      ]
+    },
+    "20/112_0": {
+      "original_lines": [
+        "無理無理、絶対無理",
+        "あんなのが私達にたてつこうなんて"
+      ],
+      "translated_lines": [
+        "做不到啦，绝对做不到啦",
+        "那种生物还想和我们对抗什么的"
+      ]
+    },
+    "20/113_0": {
+      "original_lines": [
+        "試してみたいのね"
+      ],
+      "translated_lines": [
+        "想试试看呢"
+      ]
+    },
+    "21/60_0": {
+      "original_lines": [
+        "南無～"
+      ],
+      "translated_lines": [
+        "南无～"
+      ]
+    },
+    "21/60_1": {
+      "original_lines": [
+        "きっと極楽浄土は、暖かくて幸せに",
+        "違いないでしょう"
+      ],
+      "translated_lines": [
+        "极乐净土一定是一个温暖且幸福的地方",
+        "不会错啦"
+      ]
+    }
+  }
+}

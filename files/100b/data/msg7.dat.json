@@ -1,0 +1,1530 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th07_100b",
+  "resource": "data/msg7.dat",
+  "entries": {
+    "2/40_0": {
+      "original_lines": [
+        "ここで遭ったが百年目"
+      ],
+      "translated_lines": [
+        "在这里遇见可就是你的末日了"
+      ]
+    },
+    "2/120_0": {
+      "original_lines": [
+        "今日は憑きたての"
+      ],
+      "translated_lines": [
+        "今天我可是有附体在"
+      ]
+    },
+    "2/210_0": {
+      "original_lines": [
+        "ほやほやだよ！"
+      ],
+      "translated_lines": [
+        "而且是刚刚完成的！"
+      ]
+    },
+    "2/300_0": {
+      "original_lines": [
+        "どの辺がほやほや？"
+      ],
+      "translated_lines": [
+        "怎样才算刚出炉？"
+      ]
+    },
+    "0/60_0": {
+      "original_lines": [
+        "あの世くんだりまでやってきて"
+      ],
+      "translated_lines": [
+        "好不容易来到偏远的冥界，"
+      ]
+    },
+    "0/61_0": {
+      "original_lines": [
+        "目標が居なかったら退屈だわ"
+      ],
+      "translated_lines": [
+        "结果要是没目标的话就无聊了"
+      ]
+    },
+    "0/61_1": {
+      "original_lines": [
+        "おお？これは珍しい"
+      ],
+      "translated_lines": [
+        "啊啊？这可真是少见呀"
+      ]
+    },
+    "0/102_h1_0": {
+      "original_lines": [
+        "　　 すきま妖怪の式 　　",
+        "八雲　藍（やくも　らん）"
+      ],
+      "translated_lines": [
+        "隙间妖怪的式神",
+        "　 八云　蓝"
+      ]
+    },
+    "0/102_0": {
+      "original_lines": [
+        "こういう人間もこんな所にいるんだ"
+      ],
+      "translated_lines": [
+        "原来在这里也会有这样的人呀"
+      ]
+    },
+    "0/103_0": {
+      "original_lines": [
+        "こういうって何よ"
+      ],
+      "translated_lines": [
+        "「这样」是什么意思呀?"
+      ]
+    },
+    "0/104_0": {
+      "original_lines": [
+        "見てのとおり",
+        "赤かったり白かったりで目出度い人間"
+      ],
+      "translated_lines": [
+        "如你所见",
+        "又红又白，吉利的冒傻气的人类"
+      ]
+    },
+    "0/105_0": {
+      "original_lines": [
+        "猫の次は狐・・・",
+        "何時からここは畜生界になったんでしょ"
+      ],
+      "translated_lines": [
+        "刚才是猫现在又是狐狸...",
+        "这里什么时候变成畜生界了"
+      ]
+    },
+    "0/107_0": {
+      "original_lines": [
+        "あ、お前が橙に酷い目に遭わせた",
+        "人間だな？"
+      ],
+      "translated_lines": [
+        "啊，你就是把橙给欺负得很惨的",
+        "人类吧？"
+      ]
+    },
+    "0/108_0": {
+      "original_lines": [
+        "そうだっけ？"
+      ],
+      "translated_lines": [
+        "是吗？"
+      ]
+    },
+    "0/109_0": {
+      "original_lines": [
+        "橙は私の式神"
+      ],
+      "translated_lines": [
+        "橙是我的式神。"
+      ]
+    },
+    "0/110_0": {
+      "original_lines": [
+        "今は回復して、もっと強くなっているわ"
+      ],
+      "translated_lines": [
+        "现在已经恢复，而且变得更强了"
+      ]
+    },
+    "0/111_0": {
+      "original_lines": [
+        "・・・強かったっけ？"
+      ],
+      "translated_lines": [
+        "……变强了吗？"
+      ]
+    },
+    "0/112_0": {
+      "original_lines": [
+        "って、あんたの式神？",
+        "あんたが式神じゃないの？"
+      ],
+      "translated_lines": [
+        "等等、你的式神？",
+        "你自己不是式神吗？"
+      ]
+    },
+    "0/113_0": {
+      "original_lines": [
+        "私も式神"
+      ],
+      "translated_lines": [
+        "我也是式神"
+      ]
+    },
+    "0/114_0": {
+      "original_lines": [
+        "ご主人様はまだお休みですわ"
+      ],
+      "translated_lines": [
+        "主人现在还在睡觉中"
+      ]
+    },
+    "0/115_0": {
+      "original_lines": [
+        "やっぱり、あんたが目標ね"
+      ],
+      "translated_lines": [
+        "果然，你就是目标喽"
+      ]
+    },
+    "0/116_0": {
+      "original_lines": [
+        "何か用？"
+      ],
+      "translated_lines": [
+        "有什么事吗？"
+      ]
+    },
+    "0/117_0": {
+      "original_lines": [
+        "冥界と顕界の境を修復・・・",
+        "って"
+      ],
+      "translated_lines": [
+        "关于冥界和人界间境界的修复…"
+      ]
+    },
+    "0/118_0": {
+      "original_lines": [
+        "よく考えたら"
+      ],
+      "translated_lines": [
+        "等等，仔细想想，"
+      ]
+    },
+    "0/119_0": {
+      "original_lines": [
+        "直接用があるのは、あんたの使い手",
+        "のような気もしてきた"
+      ],
+      "translated_lines": [
+        "我直接要找的人感觉好像应该是",
+        "你的使役者的样子"
+      ]
+    },
+    "0/120_0": {
+      "original_lines": [
+        "ご主人様は冬眠中ですが"
+      ],
+      "translated_lines": [
+        "主人正在冬眠中"
+      ]
+    },
+    "0/121_0": {
+      "original_lines": [
+        "起こして"
+      ],
+      "translated_lines": [
+        "让她起来"
+      ]
+    },
+    "0/122_0": {
+      "original_lines": [
+        "私は護衛でもあるわ"
+      ],
+      "translated_lines": [
+        "护卫也是我的任务呀"
+      ]
+    },
+    "0/123_0": {
+      "original_lines": [
+        "私の式神に酷い目を負わすような人を",
+        "ご主人様に会わせる訳が無い"
+      ],
+      "translated_lines": [
+        "没理由让一个欺负我的式神的人",
+        "和主人见面啊"
+      ]
+    },
+    "0/124_0": {
+      "original_lines": [
+        "ここは、今度は強くなった橙に",
+        "やられるがいいわ"
+      ],
+      "translated_lines": [
+        "这次就让你在这里",
+        "被变强了的橙杀掉好了"
+      ]
+    },
+    "0/125_0": {
+      "original_lines": [
+        "猫なら、さっき遭ったけど・・・"
+      ],
+      "translated_lines": [
+        "猫的话，刚刚见到了……"
+      ]
+    },
+    "0/126_0": {
+      "original_lines": [
+        "なんだって？",
+        "それでどうなったのよ"
+      ],
+      "translated_lines": [
+        "你说什么？",
+        "那后来怎么样了？"
+      ]
+    },
+    "0/127_0": {
+      "original_lines": [
+        "特に何も無かったかの様だったわ"
+      ],
+      "translated_lines": [
+        "似乎也没什么特别的样子"
+      ]
+    },
+    "0/128_0": {
+      "original_lines": [
+        "まぁ、橙は病み上がりだから"
+      ],
+      "translated_lines": [
+        "算了，橙病刚好嘛"
+      ]
+    },
+    "0/129_0": {
+      "original_lines": [
+        "さっきは、回復したっていってた癖に"
+      ],
+      "translated_lines": [
+        "你刚刚不是才说过她恢复了的么"
+      ]
+    },
+    "0/130_0": {
+      "original_lines": [
+        "ここは、私が橙の仇を取らなきゃいけない",
+        "みたいね"
+      ],
+      "translated_lines": [
+        "看来我不得不在这里给橙报",
+        "一箭之仇呢"
+      ]
+    },
+    "0/131_0": {
+      "original_lines": [
+        "さすがに、式神を倒せば"
+      ],
+      "translated_lines": [
+        "如果打倒那家伙的式神"
+      ]
+    },
+    "0/132_0": {
+      "original_lines": [
+        "使い手も冬眠から目覚めるかしら"
+      ],
+      "translated_lines": [
+        "再怎样使役者也该从冬眠中醒来了"
+      ]
+    },
+    "0/133_0": {
+      "original_lines": [
+        "ご主人様は、春眠も暁を覚えずよ"
+      ],
+      "translated_lines": [
+        "我家主人可是春眠不觉晓哦"
+      ]
+    },
+    "0/134_0": {
+      "original_lines": [
+        "まあ、取りあえずは",
+        "目の前の障害から"
+      ],
+      "translated_lines": [
+        "算了，不管怎样先从",
+        "眼前的障碍开始！"
+      ]
+    },
+    "0/135_0": {
+      "original_lines": [
+        "私は橙とは桁が違くてよ",
+        "色々と"
+      ],
+      "translated_lines": [
+        "我和橙可是差距悬殊的哦",
+        "从很多方面来说"
+      ]
+    },
+    "1/60_0": {
+      "original_lines": [
+        "式神風情が巫女に敵うと思って"
+      ],
+      "translated_lines": [
+        "式神之流以为能敌得过巫女？"
+      ]
+    },
+    "1/61_0": {
+      "original_lines": [
+        "私の式が通用しないなんて"
+      ],
+      "translated_lines": [
+        "我的式法竟然会没有用。"
+      ]
+    },
+    "1/62_0": {
+      "original_lines": [
+        "騙したわね～"
+      ],
+      "translated_lines": [
+        "受骗了呀～"
+      ]
+    },
+    "1/63_0": {
+      "original_lines": [
+        "なにを？"
+      ],
+      "translated_lines": [
+        "什么意思？"
+      ]
+    },
+    "1/64_0": {
+      "original_lines": [
+        "てっきり人間だと思っていたのに"
+      ],
+      "translated_lines": [
+        "我本来完全以为你是人类的呀"
+      ]
+    },
+    "1/65_0": {
+      "original_lines": [
+        "人間だってば"
+      ],
+      "translated_lines": [
+        "本来就是人类啊。"
+      ]
+    },
+    "1/66_0": {
+      "original_lines": [
+        "ともかく、折角だから",
+        "あなたの主に会わせて貰おうかしら"
+      ],
+      "translated_lines": [
+        "不管怎么样，好不容易才来",
+        "就让我见见你的主人吧"
+      ]
+    },
+    "1/67_0": {
+      "original_lines": [
+        "紫（ゆかり）様は、まだおやすみ中だわ"
+      ],
+      "translated_lines": [
+        "紫大人还在睡觉中的……"
+      ]
+    },
+    "1/68_0": {
+      "original_lines": [
+        "まだ、って何時になったら",
+        "目が覚めるのよ"
+      ],
+      "translated_lines": [
+        "还在，那究竟要到什么时",
+        "候才会醒来呀。"
+      ]
+    },
+    "1/69_0": {
+      "original_lines": [
+        "もう、十分に春じゃない"
+      ],
+      "translated_lines": [
+        "现在不是已经很春了吗？"
+      ]
+    },
+    "1/70_0": {
+      "original_lines": [
+        "紫様は冬も昼間も寝ているの",
+        "こんな時間はまだ起きていない"
+      ],
+      "translated_lines": [
+        "紫大人既要冬眠也要午睡",
+        "现在这个时候还没起来"
+      ]
+    },
+    "1/71_0": {
+      "original_lines": [
+        "もう夜の帳も落ちる頃の様な気がして",
+        "ならないけど・・・"
+      ],
+      "translated_lines": [
+        "总感觉差不多已经到",
+        "夜幕降临的时候了……"
+      ]
+    },
+    "1/72_0": {
+      "original_lines": [
+        "私達にとって、本当の宵闇はこんなもん",
+        "じゃないの"
+      ],
+      "translated_lines": [
+        "对于我们来说，真正的暗宵根本不是这种",
+        "程度的东西"
+      ]
+    },
+    "1/73_0": {
+      "original_lines": [
+        "人間が寝る時間が、本当の夜なのさ"
+      ],
+      "translated_lines": [
+        "人类睡觉的时间，那才是真正的夜晚。"
+      ]
+    },
+    "1/74_0": {
+      "original_lines": [
+        "いいから、起こしてよ"
+      ],
+      "translated_lines": [
+        "好了啊，让她起来啦～"
+      ]
+    },
+    "1/75_0": {
+      "original_lines": [
+        "といっても、紫様はここにはいないし～"
+      ],
+      "translated_lines": [
+        "就算你这么说，紫大人本来也就不在这里～"
+      ]
+    },
+    "1/76_0": {
+      "original_lines": [
+        "こいつはただの倒し損？"
+      ],
+      "translated_lines": [
+        "你的意思是我白打了？"
+      ]
+    },
+    "1/77_0": {
+      "original_lines": [
+        "ただのやられ損？"
+      ],
+      "translated_lines": [
+        "我白被打倒了？"
+      ]
+    },
+    "1/78_0": {
+      "original_lines": [
+        "って、あなたの目的は何？"
+      ],
+      "translated_lines": [
+        "不对，你究竟有什么目的呀？"
+      ]
+    },
+    "1/79_0": {
+      "original_lines": [
+        "えーと、冥界に迷惑な奴がいて、",
+        "そいつが誰かの使い魔だから・・・"
+      ],
+      "translated_lines": [
+        "这～个，冥界里有个麻烦的家伙，",
+        "而且因为那家伙是某个人的使役魔……"
+      ]
+    },
+    "1/80_0": {
+      "original_lines": [
+        "あ、目的はあんたを倒す事ね"
+      ],
+      "translated_lines": [
+        "啊，我的目的就是打倒你呢"
+      ]
+    },
+    "1/81_0": {
+      "original_lines": [
+        "しゅ～ん"
+      ],
+      "translated_lines": [
+        "咻～～"
+      ]
+    },
+    "12/40_0": {
+      "original_lines": [
+        "ここで遭ったが百年目"
+      ],
+      "translated_lines": [
+        "在这里遇见可就是你的末日了"
+      ]
+    },
+    "12/120_0": {
+      "original_lines": [
+        "今日は憑きたての"
+      ],
+      "translated_lines": [
+        "今天我可是有附体在"
+      ]
+    },
+    "12/210_0": {
+      "original_lines": [
+        "ほやほやだよ！"
+      ],
+      "translated_lines": [
+        "而且是刚刚完成的！"
+      ]
+    },
+    "12/300_0": {
+      "original_lines": [
+        "まだ、十日位だ"
+      ],
+      "translated_lines": [
+        "才不过十天而已"
+      ]
+    },
+    "10/60_0": {
+      "original_lines": [
+        "あー"
+      ],
+      "translated_lines": [
+        "啊～"
+      ]
+    },
+    "10/61_0": {
+      "original_lines": [
+        "本当に騒がしいな"
+      ],
+      "translated_lines": [
+        "真的是很热闹呀"
+      ]
+    },
+    "10/61_1": {
+      "original_lines": [
+        "今夜も、楽しい宴の準備～"
+      ],
+      "translated_lines": [
+        "今晚也是快乐宴会的准备时间～"
+      ]
+    },
+    "10/102_h1_0": {
+      "original_lines": [
+        "　　 すきま妖怪の式 　　",
+        "八雲　藍（やくも　らん）"
+      ],
+      "translated_lines": [
+        "隙间妖怪的式神",
+        "　 八云　蓝"
+      ]
+    },
+    "10/102_0": {
+      "original_lines": [
+        "おおう、人間発見"
+      ],
+      "translated_lines": [
+        "哦哦，人类发现"
+      ]
+    },
+    "10/103_0": {
+      "original_lines": [
+        "宴の準備が楽しいのか？",
+        "変った奴だな"
+      ],
+      "translated_lines": [
+        "宴会的准备很快乐么？",
+        "奇怪的家伙呀"
+      ]
+    },
+    "10/105_0": {
+      "original_lines": [
+        "何言ってるの",
+        "「楽しい宴」の準備さ"
+      ],
+      "translated_lines": [
+        "你在说什么呀。",
+        "是「欢乐的宴会」的准备"
+      ]
+    },
+    "10/107_0": {
+      "original_lines": [
+        "物事は準備が一番楽しい"
+      ],
+      "translated_lines": [
+        "准备事情的时候是最快乐的"
+      ]
+    },
+    "10/108_0": {
+      "original_lines": [
+        "いや、そういう奴も居るんでね"
+      ],
+      "translated_lines": [
+        "哎呀，也有这种人呢"
+      ]
+    },
+    "10/109_0": {
+      "original_lines": [
+        "ところで、この辺で猫を見かけ",
+        "なかったか？"
+      ],
+      "translated_lines": [
+        "那个，你有在这附近",
+        "看到一只猫吗？"
+      ]
+    },
+    "10/110_0": {
+      "original_lines": [
+        "準備はあいつの仕事なんだが"
+      ],
+      "translated_lines": [
+        "准备本来应该是那家伙的工作的"
+      ]
+    },
+    "10/111_0": {
+      "original_lines": [
+        "橙の事なら見かけなかったぜ"
+      ],
+      "translated_lines": [
+        "如果说的是橙的话那我没看到"
+      ]
+    },
+    "10/112_0": {
+      "original_lines": [
+        "やっぱりお前だな？",
+        "橙を酷い目にあわせた奴は"
+      ],
+      "translated_lines": [
+        "果然是你吗？",
+        "那个欺负橙的家伙"
+      ]
+    },
+    "10/113_0": {
+      "original_lines": [
+        "失礼な、酷い目に合わせたのではない"
+      ],
+      "translated_lines": [
+        "失礼呀，我才没有欺负她。"
+      ]
+    },
+    "10/114_0": {
+      "original_lines": [
+        "目も当てられない状態にしただけだぜ"
+      ],
+      "translated_lines": [
+        "只是让她变成惨不忍睹的状态而已啦"
+      ]
+    },
+    "10/115_0": {
+      "original_lines": [
+        "橙は私の式神"
+      ],
+      "translated_lines": [
+        "橙是我的式神。"
+      ]
+    },
+    "10/116_0": {
+      "original_lines": [
+        "式神ったって、安くは無い"
+      ],
+      "translated_lines": [
+        "既然是式神，就没这么便宜"
+      ]
+    },
+    "10/117_0": {
+      "original_lines": [
+        "式神が式神を使うのか"
+      ],
+      "translated_lines": [
+        "式神也会使役式神呀，"
+      ]
+    },
+    "10/118_0": {
+      "original_lines": [
+        "共喰いか？"
+      ],
+      "translated_lines": [
+        "同类相残吗？"
+      ]
+    },
+    "10/119_0": {
+      "original_lines": [
+        "誰が食べるなんて言ったのよ"
+      ],
+      "translated_lines": [
+        "谁说过要吃什么了呀"
+      ]
+    },
+    "10/120_0": {
+      "original_lines": [
+        "とりあえず、お前を使ってる奴が",
+        "居るはずなんだよな"
+      ],
+      "translated_lines": [
+        "总之，应该有个使役你的家伙",
+        "在才对呀。"
+      ]
+    },
+    "10/121_0": {
+      "original_lines": [
+        "それが橙とか"
+      ],
+      "translated_lines": [
+        "那个叫橙什么的"
+      ]
+    },
+    "10/122_0": {
+      "original_lines": [
+        "そんな訳無い"
+      ],
+      "translated_lines": [
+        "不可能啦。"
+      ]
+    },
+    "10/123_0": {
+      "original_lines": [
+        "ご主人様は、ぐっすりお休みですわ"
+      ],
+      "translated_lines": [
+        "主人的话，现在睡得正香呢"
+      ]
+    },
+    "10/124_0": {
+      "original_lines": [
+        "「式神を使える式神」を使う奴にも",
+        "興味があるが"
+      ],
+      "translated_lines": [
+        "「使役式神的式神」的使役者",
+        "对此我有点兴趣呀"
+      ]
+    },
+    "10/125_0": {
+      "original_lines": [
+        "呼び出して貰えないか？"
+      ],
+      "translated_lines": [
+        "能麻烦叫她出来么？"
+      ]
+    },
+    "10/126_0": {
+      "original_lines": [
+        "私は護衛でもあるわ"
+      ],
+      "translated_lines": [
+        "护卫也是我的任务呀"
+      ]
+    },
+    "10/127_0": {
+      "original_lines": [
+        "私の式神を目も当てられない状態にする",
+        "人を、ご主人様に会わせる訳が無い"
+      ],
+      "translated_lines": [
+        "没理由让一个把我的式神变成惨不忍睹",
+        "的状态的人和主人见面的"
+      ]
+    },
+    "10/128_0": {
+      "original_lines": [
+        "わかったぜ"
+      ],
+      "translated_lines": [
+        "明白了。"
+      ]
+    },
+    "10/129_0": {
+      "original_lines": [
+        "お前も目も当てられない状態にすれば",
+        "良いんだな"
+      ],
+      "translated_lines": [
+        "把你也变成惨不忍睹的状态就",
+        "好了啦"
+      ]
+    },
+    "10/130_0": {
+      "original_lines": [
+        "何を分ったのか分らんが"
+      ],
+      "translated_lines": [
+        "虽然不知道你明白了什么"
+      ]
+    },
+    "10/131_0": {
+      "original_lines": [
+        "目どころか、色々当てられない状態に",
+        "してやるよ"
+      ],
+      "translated_lines": [
+        "不过就让我把你变成比惨不忍睹还要惨",
+        "的状态好了！"
+      ]
+    },
+    "11/60_0": {
+      "original_lines": [
+        "さぁ、出て来い妖怪変化"
+      ],
+      "translated_lines": [
+        "好了，出来吧妖怪"
+      ]
+    },
+    "11/61_0": {
+      "original_lines": [
+        "げー、強い"
+      ],
+      "translated_lines": [
+        "呀～，好强"
+      ]
+    },
+    "11/62_0": {
+      "original_lines": [
+        "これじゃ、橙が敵わないのも無理はないか"
+      ],
+      "translated_lines": [
+        "这样的话也难怪橙会不敌"
+      ]
+    },
+    "11/63_0": {
+      "original_lines": [
+        "お前の主は何処に居る？"
+      ],
+      "translated_lines": [
+        "你的主人在什么地方？"
+      ]
+    },
+    "11/64_0": {
+      "original_lines": [
+        "紫（ゆかり）様は、まだおやすみ中だ"
+      ],
+      "translated_lines": [
+        "紫大人还在睡眠中"
+      ]
+    },
+    "11/65_0": {
+      "original_lines": [
+        "あー？"
+      ],
+      "translated_lines": [
+        "啊～？"
+      ]
+    },
+    "11/66_0": {
+      "original_lines": [
+        "自分の式神が目も当てられない状態",
+        "になっても、起きてこないのか？"
+      ],
+      "translated_lines": [
+        "就算自己的式神变成惨不忍睹的状态",
+        "了也不会起来么？"
+      ]
+    },
+    "11/67_0": {
+      "original_lines": [
+        "起こせ"
+      ],
+      "translated_lines": [
+        "叫醒她"
+      ]
+    },
+    "11/68_0": {
+      "original_lines": [
+        "といっても、紫様はここにはいないし～"
+      ],
+      "translated_lines": [
+        "就算你这么说，紫大人本来也就不在这里呀～"
+      ]
+    },
+    "11/69_0": {
+      "original_lines": [
+        "遠隔操作型か？"
+      ],
+      "translated_lines": [
+        "远距离操纵型吗？"
+      ]
+    },
+    "11/70_0": {
+      "original_lines": [
+        "それにしてはパワーが高い気がするが"
+      ],
+      "translated_lines": [
+        "要是那样的话我觉得力量应该是很强的"
+      ]
+    },
+    "11/71_0": {
+      "original_lines": [
+        "何の話よ"
+      ],
+      "translated_lines": [
+        "在说什么呢"
+      ]
+    },
+    "11/72_0": {
+      "original_lines": [
+        "私は殆どの時間を式神の姿で暮らしている"
+      ],
+      "translated_lines": [
+        "我大部分时间都是以式神的样子生活的。"
+      ]
+    },
+    "11/73_0": {
+      "original_lines": [
+        "そんじょそこらの妖怪よりは強いはず"
+      ],
+      "translated_lines": [
+        "比随处可见的妖怪应该都强才对"
+      ]
+    },
+    "11/74_0": {
+      "original_lines": [
+        "とりあえず、お前には意味が無いことが",
+        "分った"
+      ],
+      "translated_lines": [
+        "总而言之，我明白跟你说是毫无意义的了。",
+        "怎么做"
+      ]
+    },
+    "11/75_0": {
+      "original_lines": [
+        "どうすれば、そいつは起きる？"
+      ],
+      "translated_lines": [
+        "才能让那家伙起来？"
+      ]
+    },
+    "11/76_0": {
+      "original_lines": [
+        "夜になれば目が覚める"
+      ],
+      "translated_lines": [
+        "到了夜里就会起来了"
+      ]
+    },
+    "11/77_0": {
+      "original_lines": [
+        "私も殆ど寝てる姿しかみてないし"
+      ],
+      "translated_lines": [
+        "我也基本上只看过她睡觉的样子"
+      ]
+    },
+    "11/78_0": {
+      "original_lines": [
+        "夜まで待つか・・・"
+      ],
+      "translated_lines": [
+        "等到夜里么..."
+      ]
+    },
+    "11/79_0": {
+      "original_lines": [
+        "とりあえず、楽しい宴の準備は",
+        "続けてくれて構わないぜ"
+      ],
+      "translated_lines": [
+        "总之，你别管我了继续",
+        "做快乐的宴会的准备好了"
+      ]
+    },
+    "11/80_0": {
+      "original_lines": [
+        "しくしく"
+      ],
+      "translated_lines": [
+        "抽抽搭搭"
+      ]
+    },
+    "22/40_0": {
+      "original_lines": [
+        "ここで遭ったが百年目"
+      ],
+      "translated_lines": [
+        "在这里遇见可就是你的末日了"
+      ]
+    },
+    "22/120_0": {
+      "original_lines": [
+        "今日は憑きたての"
+      ],
+      "translated_lines": [
+        "今天我可是有附体在"
+      ]
+    },
+    "22/210_0": {
+      "original_lines": [
+        "ほやほやだよ！"
+      ],
+      "translated_lines": [
+        "而且是刚刚完成的！"
+      ]
+    },
+    "22/300_0": {
+      "original_lines": [
+        "いつぞやの猫。死んだのか？"
+      ],
+      "translated_lines": [
+        "上次见过的猫。你不是死了吗？"
+      ]
+    },
+    "20/60_0": {
+      "original_lines": [
+        "改めて見てみると"
+      ],
+      "translated_lines": [
+        "现在仔细看看，还真是"
+      ]
+    },
+    "20/61_0": {
+      "original_lines": [
+        "本当に広い庭だわ"
+      ],
+      "translated_lines": [
+        "一个宽广的庭院呀"
+      ]
+    },
+    "20/62_0": {
+      "original_lines": [
+        "人間の匂いがする～"
+      ],
+      "translated_lines": [
+        "有人类的气味～"
+      ]
+    },
+    "20/103_h1_0": {
+      "original_lines": [
+        "　　 すきま妖怪の式 　　",
+        "八雲　藍（やくも　らん）"
+      ],
+      "translated_lines": [
+        "隙间妖怪的式神",
+        "　 八云　蓝"
+      ]
+    },
+    "20/103_0": {
+      "original_lines": [
+        "違った"
+      ],
+      "translated_lines": [
+        "认错了"
+      ]
+    },
+    "20/104_0": {
+      "original_lines": [
+        "違わない"
+      ],
+      "translated_lines": [
+        "没错"
+      ]
+    },
+    "20/105_0": {
+      "original_lines": [
+        "見た感じ、生きているようだが"
+      ],
+      "translated_lines": [
+        "虽然看上去的感觉，好像是活着的"
+      ]
+    },
+    "20/106_0": {
+      "original_lines": [
+        "あなたは死んでいるのか？"
+      ],
+      "translated_lines": [
+        "但你是死的吧？"
+      ]
+    },
+    "20/107_0": {
+      "original_lines": [
+        "見た感じで結構だけど"
+      ],
+      "translated_lines": [
+        "虽然靠看上去的感觉就够了"
+      ]
+    },
+    "20/108_0": {
+      "original_lines": [
+        "あなたは見た感じ、狐に見える"
+      ],
+      "translated_lines": [
+        "你看上去的感觉，好像是狐狸"
+      ]
+    },
+    "20/109_0": {
+      "original_lines": [
+        "あなたは見た感じ、犬に見える"
+      ],
+      "translated_lines": [
+        "你看上去的感觉，好像是只狗"
+      ]
+    },
+    "20/110_0": {
+      "original_lines": [
+        "見た感じで物を言うな"
+      ],
+      "translated_lines": [
+        "不要靠看上去的感觉来判断"
+      ]
+    },
+    "20/111_0": {
+      "original_lines": [
+        "私も畜生どもと一緒にされたくはない"
+      ],
+      "translated_lines": [
+        "也不要把我和畜生相提并论。"
+      ]
+    },
+    "20/112_0": {
+      "original_lines": [
+        "私はとある方の式神"
+      ],
+      "translated_lines": [
+        "我是某位大人的式神"
+      ]
+    },
+    "20/113_0": {
+      "original_lines": [
+        "式神とはいえ、そんじょそこらの妖怪より",
+        "力はある"
+      ],
+      "translated_lines": [
+        "虽说是式神，但是比随处可见的妖怪要",
+        "更有力量。"
+      ]
+    },
+    "20/114_0": {
+      "original_lines": [
+        "ましては、人間や犬なんて"
+      ],
+      "translated_lines": [
+        "更何况是人类和狗什么的"
+      ]
+    },
+    "20/115_0": {
+      "original_lines": [
+        "式神も狐も猫も大差ないわよ"
+      ],
+      "translated_lines": [
+        "式神呀狐狸呀猫呀没大区别呢"
+      ]
+    },
+    "20/116_0": {
+      "original_lines": [
+        "どこから猫が出てきたんだ？"
+      ],
+      "translated_lines": [
+        "从哪里冒出来有猫呀？"
+      ]
+    },
+    "20/117_0": {
+      "original_lines": [
+        "ちょっと前に階段の脇から"
+      ],
+      "translated_lines": [
+        "就从不久前的阶梯旁边"
+      ]
+    },
+    "20/118_0": {
+      "original_lines": [
+        "飛躍しすぎ、何の話よ"
+      ],
+      "translated_lines": [
+        "跳过头了，你在说什么？"
+      ]
+    },
+    "20/119_0": {
+      "original_lines": [
+        "今度は、また階段の脇から狐よ"
+      ],
+      "translated_lines": [
+        "这次，又从台阶旁边出来狐狸啦"
+      ]
+    },
+    "20/120_0": {
+      "original_lines": [
+        "ここは大自然がいっぱいね"
+      ],
+      "translated_lines": [
+        "真是充满了大自然的气息呀"
+      ]
+    },
+    "20/121_0": {
+      "original_lines": [
+        "・・・橙に遭った？"
+      ],
+      "translated_lines": [
+        "……你遇到橙了？"
+      ]
+    },
+    "20/122_0": {
+      "original_lines": [
+        "丁度、探しているところだったのよ"
+      ],
+      "translated_lines": [
+        "正好，我还在找她的。"
+      ]
+    },
+    "20/123_0": {
+      "original_lines": [
+        "あいつは、落ち着きが無いから",
+        "すぐ居なくなるのよねぇ"
+      ],
+      "translated_lines": [
+        "那家伙一点都不老实，",
+        "马上不在了"
+      ]
+    },
+    "20/124_0": {
+      "original_lines": [
+        "大変残念ですが"
+      ],
+      "translated_lines": [
+        "虽然非常之遗憾"
+      ]
+    },
+    "20/125_0": {
+      "original_lines": [
+        "猫は山へ洗濯にいきました"
+      ],
+      "translated_lines": [
+        "不过猫到山上去洗衣服了"
+      ]
+    },
+    "20/126_0": {
+      "original_lines": [
+        "へぇ、そうなの"
+      ],
+      "translated_lines": [
+        "啊，这样呀"
+      ]
+    },
+    "20/127_0": {
+      "original_lines": [
+        "私も丘に帰ろうかしら"
+      ],
+      "translated_lines": [
+        "那我也回山丘去啦"
+      ]
+    },
+    "20/128_0": {
+      "original_lines": [
+        "狐死してきゅう（丘）にしゅ（首）す"
+      ],
+      "translated_lines": [
+        "狐死首丘"
+      ]
+    },
+    "20/129_0": {
+      "original_lines": [
+        "ここは「あの世」",
+        "丁度良かったわね"
+      ],
+      "translated_lines": [
+        "这里是「冥界」",
+        "正好哦～～"
+      ]
+    },
+    "20/130_0": {
+      "original_lines": [
+        "ふん",
+        "橙を苛めたのお前だろ？"
+      ],
+      "translated_lines": [
+        "哼",
+        "欺负橙的就是你吧？"
+      ]
+    },
+    "20/131_0": {
+      "original_lines": [
+        "橙は私の式神だ",
+        "その仇は取らないとな"
+      ],
+      "translated_lines": [
+        "橙她是我的式神",
+        "这个仇我非报不可！"
+      ]
+    },
+    "20/132_0": {
+      "original_lines": [
+        "猫は妖怪の式神の式神か・・・",
+        "そんな程度じゃないかと思ったよ"
+      ],
+      "translated_lines": [
+        "猫是妖怪的式神的式神么...",
+        "我还在想是不是那种程度呢"
+      ]
+    },
+    "21/60_0": {
+      "original_lines": [
+        "さぁ、丘でも何処へでも帰りなさい"
+      ],
+      "translated_lines": [
+        "好了，管它是山丘什么的赶快回去啦"
+      ]
+    },
+    "21/61_0": {
+      "original_lines": [
+        "強い・・・"
+      ],
+      "translated_lines": [
+        "好强……"
+      ]
+    },
+    "21/62_0": {
+      "original_lines": [
+        "今ごろ、橙も式が落ちてへこたれてるん",
+        "だろうなぁ"
+      ],
+      "translated_lines": [
+        "现在，橙也应该因为式被解除了",
+        "而泄气了吧"
+      ]
+    },
+    "21/63_0": {
+      "original_lines": [
+        "とりあえずは、迷惑かける奴は",
+        "退治したけど"
+      ],
+      "translated_lines": [
+        "总之，找麻烦的家伙是",
+        "已经治退了"
+      ]
+    },
+    "21/64_0": {
+      "original_lines": [
+        "迷惑の主が居るみたいなんだけどなぁ"
+      ],
+      "translated_lines": [
+        "不过好像还有麻烦的主人呐"
+      ]
+    },
+    "21/65_0": {
+      "original_lines": [
+        "紫（ゆかり）様～"
+      ],
+      "translated_lines": [
+        "紫大人～"
+      ]
+    },
+    "21/66_0": {
+      "original_lines": [
+        "そろそろ、私だけでは限界ですぅ"
+      ],
+      "translated_lines": [
+        "我自己已经差不多到极限了呀…"
+      ]
+    },
+    "21/67_0": {
+      "original_lines": [
+        "迷惑の限界？"
+      ],
+      "translated_lines": [
+        "麻烦的极限？"
+      ]
+    },
+    "21/68_0": {
+      "original_lines": [
+        "あなたのご主人様は"
+      ],
+      "translated_lines": [
+        "你的主人放着"
+      ]
+    },
+    "21/69_0": {
+      "original_lines": [
+        "自分の式神を放っておいて、何をしてるの",
+        "かしら？"
+      ],
+      "translated_lines": [
+        "自己的式神不管，究竟干",
+        "什么去了呀？"
+      ]
+    },
+    "21/70_0": {
+      "original_lines": [
+        "寝てる"
+      ],
+      "translated_lines": [
+        "在睡觉"
+      ]
+    },
+    "21/71_0": {
+      "original_lines": [
+        "起こせ"
+      ],
+      "translated_lines": [
+        "叫起来"
+      ]
+    },
+    "21/72_0": {
+      "original_lines": [
+        "起こすには丘へ帰らないと"
+      ],
+      "translated_lines": [
+        "叫她起来的话我得先回山丘去"
+      ]
+    },
+    "21/73_0": {
+      "original_lines": [
+        "ここには居ないの・・・"
+      ],
+      "translated_lines": [
+        "不在这里吗……"
+      ]
+    },
+    "21/74_0": {
+      "original_lines": [
+        "迷惑な式神を使う迷惑な式神の主は"
+      ],
+      "translated_lines": [
+        "使役麻烦的式神的麻烦的式神之主"
+      ]
+    },
+    "21/75_0": {
+      "original_lines": [
+        "さぞかし迷惑な奴なんでしょうな"
+      ],
+      "translated_lines": [
+        "想必也会是个麻烦的家伙吧～"
+      ]
+    },
+    "21/76_0": {
+      "original_lines": [
+        "・・・否定はしまい"
+      ],
+      "translated_lines": [
+        "……不否定"
+      ]
+    },
+    "21/77_0": {
+      "original_lines": [
+        "とりあえず、起きたらまた来てあげますわ"
+      ],
+      "translated_lines": [
+        "总之，如果她起来了我就再来一趟。"
+      ]
+    },
+    "21/78_0": {
+      "original_lines": [
+        "それまでに、ちゃんと起こしておくこと"
+      ],
+      "translated_lines": [
+        "在那之前，你一定要把她叫起来。"
+      ]
+    },
+    "21/79_0": {
+      "original_lines": [
+        "言ってることがおかしくないか？"
+      ],
+      "translated_lines": [
+        "不觉得说得很奇怪么？"
+      ]
+    },
+    "21/80_0": {
+      "original_lines": [
+        "いいから、起こせ"
+      ],
+      "translated_lines": [
+        "好了啦，叫起来～"
+      ]
+    },
+    "21/81_0": {
+      "original_lines": [
+        "しくしく"
+      ],
+      "translated_lines": [
+        "抽抽搭搭"
+      ]
+    }
+  }
+}

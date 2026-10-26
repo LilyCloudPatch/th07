@@ -1,0 +1,892 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th07_100b",
+  "resource": "data/msg4.dat",
+  "entries": {
+    "0/60_0": {
+      "original_lines": [
+        "それにしても"
+      ],
+      "translated_lines": [
+        "不过说起来，"
+      ]
+    },
+    "0/61_0": {
+      "original_lines": [
+        "雲の上まで桜が舞ってるのは何故？"
+      ],
+      "translated_lines": [
+        "连云端之上都是樱花飞舞是怎么一回事呀？"
+      ]
+    },
+    "0/62_0": {
+      "original_lines": [
+        "・・・"
+      ],
+      "translated_lines": [
+        "・・・"
+      ]
+    },
+    "0/63_0": {
+      "original_lines": [
+        "・・・"
+      ],
+      "translated_lines": [
+        "・・・"
+      ]
+    },
+    "0/64_0": {
+      "original_lines": [
+        "いつもだったらここで、誰かが答えて",
+        "くれるんですけど"
+      ],
+      "translated_lines": [
+        "要是平常的话，",
+        "早该有人出来回答了"
+      ]
+    },
+    "0/105_0": {
+      "original_lines": [
+        "ああ、分ったよ"
+      ],
+      "translated_lines": [
+        "啊啊，知道了"
+      ]
+    },
+    "0/106_h1_0": {
+      "original_lines": [
+        "　騒霊ヴァイオリスト　",
+        "ルナサ・プリズムリバー"
+      ],
+      "translated_lines": [
+        "骚灵提琴手",
+        "露娜萨·普莉兹姆利巴"
+      ]
+    },
+    "0/106_0": {
+      "original_lines": [
+        "ほら、それはアレだ"
+      ],
+      "translated_lines": [
+        "你看，就是那个啦"
+      ]
+    },
+    "0/107_0": {
+      "original_lines": [
+        "この辺はこの季節になると気圧が・・・",
+        "下がる"
+      ],
+      "translated_lines": [
+        "这附近一到这个季节气压就会…",
+        "下降。"
+      ]
+    },
+    "0/138_0": {
+      "original_lines": [
+        "なんかテンションも下がりそうね"
+      ],
+      "translated_lines": [
+        "好像失去干劲了呢"
+      ]
+    },
+    "0/139_0": {
+      "original_lines": [
+        "・・・"
+      ],
+      "translated_lines": [
+        "・・・"
+      ]
+    },
+    "0/140_0": {
+      "original_lines": [
+        "おっと、用が無いわけじゃないので",
+        "帰らないわよ"
+      ],
+      "translated_lines": [
+        "不行哦，我还有事情要办所以不能回去"
+      ]
+    },
+    "0/141_0": {
+      "original_lines": [
+        "誰もそんなこと言おうとしていない"
+      ],
+      "translated_lines": [
+        "谁也没想说那些事情"
+      ]
+    },
+    "0/142_0": {
+      "original_lines": [
+        "上昇気流と言いたかっただけ"
+      ],
+      "translated_lines": [
+        "我不过想说上升气流而已"
+      ]
+    },
+    "0/143_0": {
+      "original_lines": [
+        "ともかく、どう見てもこの門の先が",
+        "目的地っぽいんだけど"
+      ],
+      "translated_lines": [
+        "不管怎么样，这个门的里面",
+        "怎么看都像是目的地呢"
+      ]
+    },
+    "0/144_0": {
+      "original_lines": [
+        "姉さんってば早いって"
+      ],
+      "translated_lines": [
+        "姐姐你也太快了吧"
+      ]
+    },
+    "0/204_h1_0": {
+      "original_lines": [
+        "　 騒霊トランペッター 　",
+        "メルラン・プリズムリバー"
+      ],
+      "translated_lines": [
+        "骚灵小号手　　",
+        "梅露兰·普莉兹姆利巴"
+      ]
+    },
+    "0/204_0": {
+      "original_lines": [
+        "それ、誰？"
+      ],
+      "translated_lines": [
+        "那，是谁？"
+      ]
+    },
+    "0/205_0": {
+      "original_lines": [
+        "上昇気流"
+      ],
+      "translated_lines": [
+        "上升气流"
+      ]
+    },
+    "0/206_h1_0": {
+      "original_lines": [
+        " 騒霊キーボーディスト ",
+        "リリカ・プリズムリバー"
+      ],
+      "translated_lines": [
+        "骚灵键盘手",
+        "莉莉卡·普莉兹姆利巴"
+      ]
+    },
+    "0/206_0": {
+      "original_lines": [
+        "私達の天敵ねー"
+      ],
+      "translated_lines": [
+        "是我们的天敌呢～"
+      ]
+    },
+    "0/207_0": {
+      "original_lines": [
+        "おそらく、それは違う"
+      ],
+      "translated_lines": [
+        "我估计，八成是你们搞错了"
+      ]
+    },
+    "0/208_0": {
+      "original_lines": [
+        "で、あんたら何者？",
+        "ここはどこなのよ？"
+      ],
+      "translated_lines": [
+        "等等，你们是什么人？",
+        "这里又是哪儿？"
+      ]
+    },
+    "0/209_0": {
+      "original_lines": [
+        "私達は騒霊演奏隊～",
+        "お呼ばれで来たの"
+      ],
+      "translated_lines": [
+        "我们是骚灵演奏队～",
+        "是受邀请而来的"
+      ]
+    },
+    "0/210_0": {
+      "original_lines": [
+        "これからお屋敷でお花見よ",
+        "私達は音楽で盛り上げるの"
+      ],
+      "translated_lines": [
+        "等下房子里会有一场赏花会",
+        "我们要在那里进行盛大的演奏"
+      ]
+    },
+    "0/211_0": {
+      "original_lines": [
+        "でも、あなたは演奏できない"
+      ],
+      "translated_lines": [
+        "但是，你不会演奏"
+      ]
+    },
+    "0/212_0": {
+      "original_lines": [
+        "私もお花見したいわ"
+      ],
+      "translated_lines": [
+        "我也想去赏花呀"
+      ]
+    },
+    "0/213_0": {
+      "original_lines": [
+        "あなたはお呼びでない"
+      ],
+      "translated_lines": [
+        "你也没被邀请……"
+      ]
+    },
+    "0/214_0": {
+      "original_lines": [
+        "幽霊にお呼ばれ、ねぇ",
+        "あんまりされたくないなぁ"
+      ],
+      "translated_lines": [
+        "被幽灵邀请，这个",
+        "还真是不太想呀"
+      ]
+    },
+    "0/215_0": {
+      "original_lines": [
+        "雑音は、始末するまで"
+      ],
+      "translated_lines": [
+        "是杂音就要消灭掉！"
+      ]
+    },
+    "0/216_0": {
+      "original_lines": [
+        "がんばってね～"
+      ],
+      "translated_lines": [
+        "加油啊～"
+      ]
+    },
+    "0/217_0": {
+      "original_lines": [
+        "手助け歓迎中よ"
+      ],
+      "translated_lines": [
+        "随时欢迎帮忙哦。"
+      ]
+    },
+    "1/60_0": {
+      "original_lines": [
+        "やった、お花見権確保！"
+      ],
+      "translated_lines": [
+        "太好了，赏花权确保！"
+      ]
+    },
+    "1/61_0": {
+      "original_lines": [
+        "で、目的はお花見ジャック？"
+      ],
+      "translated_lines": [
+        "难道，目的是赏花劫持？"
+      ]
+    },
+    "1/62_0": {
+      "original_lines": [
+        "何か違った気もする・・・"
+      ],
+      "translated_lines": [
+        "总感觉有点不对劲…"
+      ]
+    },
+    "10/60_0": {
+      "original_lines": [
+        "この結界は凄いな",
+        "素人にはさっぱり解き方が分らないぜ"
+      ],
+      "translated_lines": [
+        "这个结界很厉害啊",
+        "要是外行的话完全没法解开哦"
+      ]
+    },
+    "10/61_0": {
+      "original_lines": [
+        "何を隠してあるんだか"
+      ],
+      "translated_lines": [
+        "究竟藏了些什么东西"
+      ]
+    },
+    "10/101_0": {
+      "original_lines": [
+        "えへへ～"
+      ],
+      "translated_lines": [
+        "嘿嘿嘿～"
+      ]
+    },
+    "10/102_h1_0": {
+      "original_lines": [
+        " 騒霊キーボーディスト ",
+        "リリカ・プリズムリバー"
+      ],
+      "translated_lines": [
+        "骚灵键盘手",
+        "莉莉卡·普莉兹姆利巴"
+      ]
+    },
+    "10/102_0": {
+      "original_lines": [
+        "企業秘密"
+      ],
+      "translated_lines": [
+        "商业机密"
+      ]
+    },
+    "10/103_0": {
+      "original_lines": [
+        "オンパッキャラマド・・・"
+      ],
+      "translated_lines": [
+        "\"芝麻开门\"……"
+      ]
+    },
+    "10/104_0": {
+      "original_lines": [
+        "そんなんじゃ、この結界は開かないって"
+      ],
+      "translated_lines": [
+        "那么做，是打不开这个结界的"
+      ]
+    },
+    "10/105_0": {
+      "original_lines": [
+        "どうでもいいけど、お前は誰だ？"
+      ],
+      "translated_lines": [
+        "虽然无所谓，还是问下，你是谁呀？"
+      ]
+    },
+    "10/106_0": {
+      "original_lines": [
+        "どうでもいいじゃん"
+      ],
+      "translated_lines": [
+        "反正无所谓"
+      ]
+    },
+    "10/107_0": {
+      "original_lines": [
+        "ああ、どうでもいいぜ"
+      ],
+      "translated_lines": [
+        "啊啊，无所谓"
+      ]
+    },
+    "10/108_0": {
+      "original_lines": [
+        "どうせ、倒せば扉が開くんだろ？"
+      ],
+      "translated_lines": [
+        "反正，打倒你了，门就会自动开了吧？"
+      ]
+    },
+    "10/109_h1_0": {
+      "original_lines": [
+        "　騒霊ヴァイオリスト　",
+        "ルナサ・プリズムリバー"
+      ],
+      "translated_lines": [
+        "骚灵提琴手",
+        "露娜萨·普莉兹姆利巴"
+      ]
+    },
+    "10/109_0": {
+      "original_lines": [
+        "リリカのお友達？"
+      ],
+      "translated_lines": [
+        "莉莉卡的朋友？"
+      ]
+    },
+    "10/110_0": {
+      "original_lines": [
+        "お友達だぜ"
+      ],
+      "translated_lines": [
+        "朋友呀"
+      ]
+    },
+    "10/111_0": {
+      "original_lines": [
+        "お友達よ～"
+      ],
+      "translated_lines": [
+        "朋友哦～"
+      ]
+    },
+    "10/112_h1_0": {
+      "original_lines": [
+        "　 騒霊トランペッター 　",
+        "メルラン・プリズムリバー"
+      ],
+      "translated_lines": [
+        "骚灵小号手　　",
+        "梅露兰·普莉兹姆利巴"
+      ]
+    },
+    "10/112_0": {
+      "original_lines": [
+        "それは良かったわ",
+        "ようやくリリカにもお友達が出来て"
+      ],
+      "translated_lines": [
+        "那真是太好了",
+        "莉莉卡终于也能交到朋友了"
+      ]
+    },
+    "10/113_0": {
+      "original_lines": [
+        "で、早速だが"
+      ],
+      "translated_lines": [
+        "这个，有点仓促"
+      ]
+    },
+    "10/114_0": {
+      "original_lines": [
+        "友達のよしみで、この結界を解いて",
+        "欲しい"
+      ],
+      "translated_lines": [
+        "不过看在朋友的交情上把这个结界给解开吧"
+      ]
+    },
+    "10/115_0": {
+      "original_lines": [
+        "その前に一曲聴いてからにしない？",
+        "友達のよしみで"
+      ],
+      "translated_lines": [
+        "在那之前能先听我们演奏一曲吗？",
+        "看在朋友的交情上"
+      ]
+    },
+    "10/116_0": {
+      "original_lines": [
+        "お代は見てのお帰りよ",
+        "友達のよしみの所為で"
+      ],
+      "translated_lines": [
+        "代价是听过之后就回去哦",
+        "因为朋友的交情"
+      ]
+    },
+    "10/117_0": {
+      "original_lines": [
+        "よしみ～"
+      ],
+      "translated_lines": [
+        "交情～"
+      ]
+    },
+    "10/118_0": {
+      "original_lines": [
+        "どうにも、あんたらじゃこの結界を",
+        "解けそうに無いぜ"
+      ],
+      "translated_lines": [
+        "不管怎么看，你们都不能把",
+        "这个结界解开的样子呢"
+      ]
+    },
+    "10/119_0": {
+      "original_lines": [
+        "さぁ演奏開始よ～",
+        "姉さん、やっちゃいな！"
+      ],
+      "translated_lines": [
+        "那么演奏开始～",
+        "姐姐，要上了！"
+      ]
+    },
+    "10/120_0": {
+      "original_lines": [
+        "お友達なんだから、たまにはソロで",
+        "やりなさいよ"
+      ],
+      "translated_lines": [
+        "她是你的朋友呀，偶尔也用用独奏",
+        "来解决吧"
+      ]
+    },
+    "10/121_0": {
+      "original_lines": [
+        "うぇ～"
+      ],
+      "translated_lines": [
+        "呜～"
+      ]
+    },
+    "10/122_0": {
+      "original_lines": [
+        "わかったよ、いつでも手助けする"
+      ],
+      "translated_lines": [
+        "知道了啦，我们随时准备帮忙"
+      ]
+    },
+    "10/123_0": {
+      "original_lines": [
+        "手助けは、無用だぜ"
+      ],
+      "translated_lines": [
+        "帮忙嘛，不需要啦"
+      ]
+    },
+    "11/60_0": {
+      "original_lines": [
+        "さて、扉は開くのか？"
+      ],
+      "translated_lines": [
+        "那么，把门打开吧？"
+      ]
+    },
+    "11/61_0": {
+      "original_lines": [
+        "この扉は開かないわ"
+      ],
+      "translated_lines": [
+        "这个门打不开啊"
+      ]
+    },
+    "11/62_0": {
+      "original_lines": [
+        "お前達は、この中に入るんじゃ",
+        "ないのか？"
+      ],
+      "translated_lines": [
+        "你们，不是进去过了吗？"
+      ]
+    },
+    "11/63_0": {
+      "original_lines": [
+        "私達は上を飛び越えて入るのよ"
+      ],
+      "translated_lines": [
+        "我们是从那上面飞进去的啊"
+      ]
+    },
+    "11/64_0": {
+      "original_lines": [
+        "・・・ほう"
+      ],
+      "translated_lines": [
+        "～～～呵"
+      ]
+    },
+    "20/60_0": {
+      "original_lines": [
+        "上空の方が暖かいなんて"
+      ],
+      "translated_lines": [
+        "上空竟然如此的温暖"
+      ]
+    },
+    "20/61_0": {
+      "original_lines": [
+        "素敵過ぎて涙が出るわ"
+      ],
+      "translated_lines": [
+        "感动得都要流泪了"
+      ]
+    },
+    "20/101_0": {
+      "original_lines": [
+        "本当ね～"
+      ],
+      "translated_lines": [
+        "真的呢～"
+      ]
+    },
+    "20/102_h1_0": {
+      "original_lines": [
+        "　 騒霊トランペッター 　",
+        "メルラン・プリズムリバー"
+      ],
+      "translated_lines": [
+        "骚灵小号手　　",
+        "梅露兰·普莉兹姆利巴"
+      ]
+    },
+    "20/102_0": {
+      "original_lines": [
+        "この雲の下は、猛吹雪だって言うのに"
+      ],
+      "translated_lines": [
+        "这片云层的下面，都还是狂风暴雪的说"
+      ]
+    },
+    "20/103_0": {
+      "original_lines": [
+        "で、ここはどこ？",
+        "あなたは？"
+      ],
+      "translated_lines": [
+        "那么，这里是哪里？",
+        "你是？"
+      ]
+    },
+    "20/105_0": {
+      "original_lines": [
+        "質問は一つずつにして"
+      ],
+      "translated_lines": [
+        "问题要一个一个的来"
+      ]
+    },
+    "20/106_0": {
+      "original_lines": [
+        "そうねぇ、じゃぁ凄いの？"
+      ],
+      "translated_lines": [
+        "也对，那么你很强吗？"
+      ]
+    },
+    "20/107_0": {
+      "original_lines": [
+        "もの凄く普通よ"
+      ],
+      "translated_lines": [
+        "我很普通啦"
+      ]
+    },
+    "20/108_0": {
+      "original_lines": [
+        "どうでもいいけど、あんたは誰？"
+      ],
+      "translated_lines": [
+        "虽然问不问无所谓，你是谁？"
+      ]
+    },
+    "20/109_0": {
+      "original_lines": [
+        "風上を目指していたらここに",
+        "たどり着いただけ"
+      ],
+      "translated_lines": [
+        "向上风方向前进",
+        "最后到达这里而已"
+      ]
+    },
+    "20/110_0": {
+      "original_lines": [
+        "風もここで淀んでるみたいだし"
+      ],
+      "translated_lines": [
+        "风貌似沉淀在这里了的样子"
+      ]
+    },
+    "20/111_h1_0": {
+      "original_lines": [
+        "　騒霊ヴァイオリスト　",
+        "ルナサ・プリズムリバー"
+      ],
+      "translated_lines": [
+        "骚灵提琴手",
+        "露娜萨·普莉兹姆利巴"
+      ]
+    },
+    "20/111_0": {
+      "original_lines": [
+        "宴にはまだ早い"
+      ],
+      "translated_lines": [
+        "离宴会还早"
+      ]
+    },
+    "20/112_0": {
+      "original_lines": [
+        "うん？"
+      ],
+      "translated_lines": [
+        "嗯？"
+      ]
+    },
+    "20/113_h1_0": {
+      "original_lines": [
+        " 騒霊キーボーディスト ",
+        "リリカ・プリズムリバー"
+      ],
+      "translated_lines": [
+        "骚灵键盘手",
+        "莉莉卡·普莉兹姆利巴"
+      ]
+    },
+    "20/113_0": {
+      "original_lines": [
+        "宴の時間～"
+      ],
+      "translated_lines": [
+        "宴会的时间～"
+      ]
+    },
+    "20/114_0": {
+      "original_lines": [
+        "まぁ、プチ宴位にはなるかな？"
+      ],
+      "translated_lines": [
+        "嘛，要办个小型的宴会吗？"
+      ]
+    },
+    "20/115_0": {
+      "original_lines": [
+        "なんだい、これからお花見でも",
+        "しようってのかい？"
+      ],
+      "translated_lines": [
+        "说什么呢，等一下这里",
+        "要举行赏花会吗？"
+      ]
+    },
+    "20/116_0": {
+      "original_lines": [
+        "お花見はするわよ"
+      ],
+      "translated_lines": [
+        "要开赏花会哦"
+      ]
+    },
+    "20/117_0": {
+      "original_lines": [
+        "その前に宴のネタが手に入りそうだから"
+      ],
+      "translated_lines": [
+        "因为在那之前似乎能弄到宴会的原料呢"
+      ]
+    },
+    "20/118_0": {
+      "original_lines": [
+        "お花見前夜祭ね"
+      ],
+      "translated_lines": [
+        "赏花会的前夜祭哦"
+      ]
+    },
+    "20/119_0": {
+      "original_lines": [
+        "それは、楽しそうね"
+      ],
+      "translated_lines": [
+        "那似乎很有趣啊"
+      ]
+    },
+    "20/120_0": {
+      "original_lines": [
+        "あなたは食料役"
+      ],
+      "translated_lines": [
+        "你是负责食物的"
+      ]
+    },
+    "20/121_0": {
+      "original_lines": [
+        "私につとまるかしら"
+      ],
+      "translated_lines": [
+        "要我来负责呀"
+      ]
+    },
+    "20/122_0": {
+      "original_lines": [
+        "私の演奏を聴いて、無事だった",
+        "食料は無いわ"
+      ],
+      "translated_lines": [
+        "听了我的演奏之后还能没事的食物",
+        "是不存在的"
+      ]
+    },
+    "20/123_0": {
+      "original_lines": [
+        "無事でありたいわねぇ"
+      ],
+      "translated_lines": [
+        "我希望能没事呢"
+      ]
+    },
+    "20/124_0": {
+      "original_lines": [
+        "いぬにく、いぬにく～"
+      ],
+      "translated_lines": [
+        "狗肉，狗肉～"
+      ]
+    },
+    "20/125_0": {
+      "original_lines": [
+        "人肉！"
+      ],
+      "translated_lines": [
+        "人肉！"
+      ]
+    },
+    "21/60_0": {
+      "original_lines": [
+        "で、こんなところで時間を潰してる",
+        "暇はないんだけど"
+      ],
+      "translated_lines": [
+        "怎样，我已经没太多的时间",
+        "在这里耗了"
+      ]
+    },
+    "21/61_0": {
+      "original_lines": [
+        "まだお花見には早いの"
+      ],
+      "translated_lines": [
+        "离赏花的时间还早呢"
+      ]
+    },
+    "21/62_0": {
+      "original_lines": [
+        "お花見も結構だけど、",
+        "春にならないとね"
+      ],
+      "translated_lines": [
+        "虽然赏花也很不错，",
+        "不过前提是春天呢"
+      ]
+    },
+    "21/63_0": {
+      "original_lines": [
+        "春なら、お屋敷にいっぱいだわ"
+      ],
+      "translated_lines": [
+        "春的话，房子里到处都是啦"
+      ]
+    },
+    "21/64_0": {
+      "original_lines": [
+        "この程度の結界なら、"
+      ],
+      "translated_lines": [
+        "这种程度的结界，"
+      ]
+    },
+    "21/65_0": {
+      "original_lines": [
+        "簡単にくぐれるわね"
+      ],
+      "translated_lines": [
+        "很简单就能钻过去了呀"
+      ]
+    }
+  }
+}

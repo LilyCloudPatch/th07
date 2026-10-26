@@ -1,0 +1,650 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th07_100b",
+  "resource": "data/msg3.dat",
+  "entries": {
+    "0/60_0": {
+      "original_lines": [
+        "夜は冷えるわね"
+      ],
+      "translated_lines": [
+        "夜里好冷啊"
+      ]
+    },
+    "0/61_0": {
+      "original_lines": [
+        "視界も最悪だし"
+      ],
+      "translated_lines": [
+        "视线也是最差的"
+      ]
+    },
+    "0/101_0": {
+      "original_lines": [
+        "冷えるのは、あなたの春度が足りないから",
+        "じゃなくて？"
+      ],
+      "translated_lines": [
+        "会冷的话是因为你的春度不足的缘故啦～",
+        "难道不是吗？"
+      ]
+    },
+    "0/102_h1_0": {
+      "original_lines": [
+        "　　七色の人形使い　　　",
+        "アリス・マーガトロイド　"
+      ],
+      "translated_lines": [
+        "七色的人偶使",
+        "爱丽丝·玛格特洛依德"
+      ]
+    },
+    "0/102_0": {
+      "original_lines": [
+        "いや、足りないかも知れないけど"
+      ],
+      "translated_lines": [
+        "哎呀，虽然可能的确是不足"
+      ]
+    },
+    "0/103_0": {
+      "original_lines": [
+        "しばらくぶりね"
+      ],
+      "translated_lines": [
+        "有段时间没见了"
+      ]
+    },
+    "0/104_0": {
+      "original_lines": [
+        "さっき遭ったばかりだってば"
+      ],
+      "translated_lines": [
+        "刚刚才见过面的吧？"
+      ]
+    },
+    "0/105_0": {
+      "original_lines": [
+        "いや、そういう意味じゃなくて"
+      ],
+      "translated_lines": [
+        "不是，不是那个意思"
+      ]
+    },
+    "0/106_0": {
+      "original_lines": [
+        "しばらく巨人？"
+      ],
+      "translated_lines": [
+        "有段时间巨人？"
+      ]
+    },
+    "0/107_0": {
+      "original_lines": [
+        "私のこと覚えてないの？",
+        "まぁ、どうでもいいけど"
+      ],
+      "translated_lines": [
+        "不记得我了吗？",
+        "算了，反正也无所谓"
+      ]
+    },
+    "0/108_0": {
+      "original_lines": [
+        "それはともかく、春度って何？"
+      ],
+      "translated_lines": [
+        "先不管那些，春度是什么？"
+      ]
+    },
+    "0/109_0": {
+      "original_lines": [
+        "どれだけ、あなたの頭が春なのかの度合い",
+        "よ"
+      ],
+      "translated_lines": [
+        "就是说，你头脑里究竟有多春的程度啊"
+      ]
+    },
+    "0/110_0": {
+      "original_lines": [
+        "あんまり、高くても嫌だなぁ"
+      ],
+      "translated_lines": [
+        "太高了也不好呢"
+      ]
+    },
+    "0/111_0": {
+      "original_lines": [
+        "でも、どうしてこんなに冬が長く",
+        "なったのよ？"
+      ],
+      "translated_lines": [
+        "不过为什么这次的冬天会这么久？"
+      ]
+    },
+    "0/112_0": {
+      "original_lines": [
+        "春度を集めてる奴が居るからよ"
+      ],
+      "translated_lines": [
+        "因为有个收集春度的家伙在"
+      ]
+    },
+    "0/113_0": {
+      "original_lines": [
+        "あんたは関係無いわけ？"
+      ],
+      "translated_lines": [
+        "就是说和你没关系？"
+      ]
+    },
+    "0/114_0": {
+      "original_lines": [
+        "あるわけ無いわ"
+      ],
+      "translated_lines": [
+        "当然没关系"
+      ]
+    },
+    "0/115_0": {
+      "original_lines": [
+        "じゃ"
+      ],
+      "translated_lines": [
+        "那，再见"
+      ]
+    },
+    "0/116_0": {
+      "original_lines": [
+        "ちょっと！"
+      ],
+      "translated_lines": [
+        "等等！"
+      ]
+    },
+    "0/117_0": {
+      "original_lines": [
+        "折角、旧友と出あったと言うのに",
+        "手土産はあんたの命だけかい？"
+      ],
+      "translated_lines": [
+        "明明好不容易遇见旧友",
+        "见面礼就只有你的性命吗？"
+      ]
+    },
+    "0/118_0": {
+      "original_lines": [
+        "誰があんたみたいな七色魔法莫迦と",
+        "旧友なのよ"
+      ],
+      "translated_lines": [
+        "谁会和你这种七色魔法笨蛋是旧友"
+      ]
+    },
+    "0/119_0": {
+      "original_lines": [
+        "所詮、巫女は二色"
+      ],
+      "translated_lines": [
+        "巫女到底不过二色"
+      ]
+    },
+    "0/120_0": {
+      "original_lines": [
+        "その力は私の二割八分六厘にも満たない"
+      ],
+      "translated_lines": [
+        "这种力量连我的二成八分六厘都不到"
+      ]
+    },
+    "1/60_0": {
+      "original_lines": [
+        "春度っていうのは"
+      ],
+      "translated_lines": [
+        "说起春度的话"
+      ]
+    },
+    "1/61_0": {
+      "original_lines": [
+        "この桜の花びらのことかしら？"
+      ],
+      "translated_lines": [
+        "是不是就是指那些樱花的花瓣？"
+      ]
+    },
+    "1/62_0": {
+      "original_lines": [
+        "判ってて集めてたんじゃないの？"
+      ],
+      "translated_lines": [
+        "你不是知道所以才搜集的吗？"
+      ]
+    },
+    "1/63_0": {
+      "original_lines": [
+        "いや、まぁ、うん"
+      ],
+      "translated_lines": [
+        "不是的，这个，也对"
+      ]
+    },
+    "10/60_0": {
+      "original_lines": [
+        "何だか"
+      ],
+      "translated_lines": [
+        "总感觉"
+      ]
+    },
+    "10/61_0": {
+      "original_lines": [
+        "居心地がいいぜ"
+      ],
+      "translated_lines": [
+        "这里蛮爽的"
+      ]
+    },
+    "10/101_0": {
+      "original_lines": [
+        "こんな殺伐とした夜がいいのかしら？"
+      ],
+      "translated_lines": [
+        "像这样的杀戮之夜真的好吗？"
+      ]
+    },
+    "10/102_h1_0": {
+      "original_lines": [
+        "　　七色の人形使い　　　",
+        "アリス・マーガトロイド　"
+      ],
+      "translated_lines": [
+        "七色的人偶使",
+        "爱丽丝·玛格特洛依德"
+      ]
+    },
+    "10/102_0": {
+      "original_lines": [
+        "いいんだよ"
+      ],
+      "translated_lines": [
+        "很好的"
+      ]
+    },
+    "10/103_0": {
+      "original_lines": [
+        "所詮、あなたは野魔法使いね"
+      ],
+      "translated_lines": [
+        "毕竟，你是个野生魔法使"
+      ]
+    },
+    "10/104_0": {
+      "original_lines": [
+        "温室魔法使いよりはよくないか？"
+      ],
+      "translated_lines": [
+        "比起温室魔法使不是要好吗？"
+      ]
+    },
+    "10/105_0": {
+      "original_lines": [
+        "都会派魔法使いよ"
+      ],
+      "translated_lines": [
+        "是都市派魔法使"
+      ]
+    },
+    "10/106_0": {
+      "original_lines": [
+        "あー？、辺境にようこそだな"
+      ],
+      "translated_lines": [
+        "啊？欢迎来到边境"
+      ]
+    },
+    "10/107_0": {
+      "original_lines": [
+        "田舎の春は寒くて嫌ねぇ"
+      ],
+      "translated_lines": [
+        "农村的春天寒冷得让人讨厌"
+      ]
+    },
+    "10/108_0": {
+      "original_lines": [
+        "誰の所為で春なのにこんな吹雪に",
+        "あってるんだよ"
+      ],
+      "translated_lines": [
+        "让春天还有这样的暴风雪的",
+        "到底是谁啊"
+      ]
+    },
+    "10/109_0": {
+      "original_lines": [
+        "ちなみに、私の所為ではないわ"
+      ],
+      "translated_lines": [
+        "顺便说句，不是因为我的原因"
+      ]
+    },
+    "10/110_0": {
+      "original_lines": [
+        "そうかい"
+      ],
+      "translated_lines": [
+        "是吗"
+      ]
+    },
+    "10/111_0": {
+      "original_lines": [
+        "でも、なけなしの春くらいは",
+        "持ってそうだな"
+      ],
+      "translated_lines": [
+        "不过，看起来一点点春的话",
+        "应该还是有的"
+      ]
+    },
+    "10/112_0": {
+      "original_lines": [
+        "私も、あんたのなけなしの春くらいを",
+        "頂こうかしら？"
+      ],
+      "translated_lines": [
+        "我也这么想，你那一点点的春",
+        "能交给我吗？"
+      ]
+    },
+    "11/60_0": {
+      "original_lines": [
+        "いつも冬ってこんなに",
+        "騒がしかったのか？"
+      ],
+      "translated_lines": [
+        "冬天一直这么喧闹吗？"
+      ]
+    },
+    "11/61_0": {
+      "original_lines": [
+        "大体、普通の人間は表に出ないからなぁ"
+      ],
+      "translated_lines": [
+        "基本上，普通的人类这时候不会出现在外面"
+      ]
+    },
+    "11/62_0": {
+      "original_lines": [
+        "私を普通の人間と一緒にしないでよ"
+      ],
+      "translated_lines": [
+        "不要把我和普通的人类相提并论"
+      ]
+    },
+    "11/63_0": {
+      "original_lines": [
+        "異常な人間か？"
+      ],
+      "translated_lines": [
+        "是异常的人类吗？"
+      ]
+    },
+    "11/64_0": {
+      "original_lines": [
+        "普通の人間以外！！"
+      ],
+      "translated_lines": [
+        "是普通的非人类！！"
+      ]
+    },
+    "20/60_0": {
+      "original_lines": [
+        "なんか、無駄に時間を過ごしてるような",
+        "気がする... "
+      ],
+      "translated_lines": [
+        "总觉得，好像在浪费时间的样子…"
+      ]
+    },
+    "20/61_0": {
+      "original_lines": [
+        "うちのお嬢様は大丈夫かしら？"
+      ],
+      "translated_lines": [
+        "我们家大小姐没关系吗？"
+      ]
+    },
+    "20/101_0": {
+      "original_lines": [
+        "他人の心配する位なら自分の心配したら？"
+      ],
+      "translated_lines": [
+        "有时间关心别人的话是不是先关心下自己？"
+      ]
+    },
+    "20/102_h1_0": {
+      "original_lines": [
+        "　　七色の人形使い　　　",
+        "アリス・マーガトロイド　"
+      ],
+      "translated_lines": [
+        "七色的人偶使",
+        "爱丽丝·玛格特洛依德"
+      ]
+    },
+    "20/102_0": {
+      "original_lines": [
+        "ああ、心配だわ。自分。"
+      ],
+      "translated_lines": [
+        "有关心自己的说。"
+      ]
+    },
+    "20/103_0": {
+      "original_lines": [
+        "で、何が心配なの？自分。"
+      ],
+      "translated_lines": [
+        "在关心自己什么？"
+      ]
+    },
+    "20/104_0": {
+      "original_lines": [
+        "服の替えを３着しか持ってこなかったの。",
+        "自分"
+      ],
+      "translated_lines": [
+        "备用的衣服只带了3件而已。",
+        "自己"
+      ]
+    },
+    "20/106_0": {
+      "original_lines": [
+        "持ってきてたんだ"
+      ],
+      "translated_lines": [
+        "带来了啊"
+      ]
+    },
+    "20/107_0": {
+      "original_lines": [
+        "あと、ナイフの替えも"
+      ],
+      "translated_lines": [
+        "还有，就是备用的飞刀也"
+      ]
+    },
+    "20/108_0": {
+      "original_lines": [
+        "持ってきてるの？"
+      ],
+      "translated_lines": [
+        "带了吗？"
+      ]
+    },
+    "20/109_0": {
+      "original_lines": [
+        "あなたは悩みが少なそうでいいわね"
+      ],
+      "translated_lines": [
+        "你看起来好像烦恼很少的样子，真好啊"
+      ]
+    },
+    "20/110_0": {
+      "original_lines": [
+        "失礼な！"
+      ],
+      "translated_lines": [
+        "真失礼啊！"
+      ]
+    },
+    "20/111_0": {
+      "original_lines": [
+        "少ないんじゃなくて、悩みなんて無いわ！"
+      ],
+      "translated_lines": [
+        "不是很少，我根本就没有烦恼！"
+      ]
+    },
+    "20/112_0": {
+      "original_lines": [
+        "って、言い切られてもなぁ。"
+      ],
+      "translated_lines": [
+        "这个，还真是斩钉截铁。"
+      ]
+    },
+    "20/113_0": {
+      "original_lines": [
+        "で、そこの悩みの無いの。"
+      ],
+      "translated_lines": [
+        "对了，那里那个没烦恼的。"
+      ]
+    },
+    "20/114_0": {
+      "original_lines": [
+        "はい？"
+      ],
+      "translated_lines": [
+        "什么？"
+      ]
+    },
+    "20/115_0": {
+      "original_lines": [
+        "この辺で春を奪った奴か、冬をばら",
+        "撒いた奴を知らないかしら？"
+      ],
+      "translated_lines": [
+        "把这附近的春夺走的家伙，",
+        "那个播撒冬日的家伙是谁？"
+      ]
+    },
+    "20/117_0": {
+      "original_lines": [
+        "大体、心当たりはあるけど"
+      ],
+      "translated_lines": [
+        "大概，有点线索"
+      ]
+    },
+    "20/118_0": {
+      "original_lines": [
+        "どこに居るの？"
+      ],
+      "translated_lines": [
+        "在什么地方？"
+      ]
+    },
+    "20/119_0": {
+      "original_lines": [
+        "そんな瑣末な事は、どうでも良かった",
+        "のであった"
+      ],
+      "translated_lines": [
+        "那种琐碎的小事，",
+        "怎样都好"
+      ]
+    },
+    "20/120_0": {
+      "original_lines": [
+        "どうでも良くない"
+      ],
+      "translated_lines": [
+        "怎样都不好"
+      ]
+    },
+    "21/60_0": {
+      "original_lines": [
+        "さぁ、今回の騒動の張本人は",
+        "一体どこのどいつ？"
+      ],
+      "translated_lines": [
+        "说，引起这次骚动的真凶",
+        "究竟是什么家伙？"
+      ]
+    },
+    "21/61_0": {
+      "original_lines": [
+        "風下に寂れた神社があるわ"
+      ],
+      "translated_lines": [
+        "在下风方向有个萧条的神社"
+      ]
+    },
+    "21/62_0": {
+      "original_lines": [
+        "そこに頭が春っぽい巫女が住んでる",
+        "から、そいつに違いないわ"
+      ],
+      "translated_lines": [
+        "那里住着一位满脑子都是春的巫女，",
+        "就是那家伙没错"
+      ]
+    },
+    "21/63_0": {
+      "original_lines": [
+        "多分、それは違うと思います"
+      ],
+      "translated_lines": [
+        "我觉得恐怕不对"
+      ]
+    },
+    "21/64_0": {
+      "original_lines": [
+        "冗談はさておき"
+      ],
+      "translated_lines": [
+        "不开玩笑了"
+      ]
+    },
+    "21/65_0": {
+      "original_lines": [
+        "あなたが桜を集めるたびに",
+        "春が近づいてることに気が付かない？"
+      ],
+      "translated_lines": [
+        "你在收集樱花的同时",
+        "难道没有注意到春已经在靠近了吗？"
+      ]
+    },
+    "21/66_0": {
+      "original_lines": [
+        " ...向うは風上ね"
+      ],
+      "translated_lines": [
+        "...往上风的方向"
+      ]
+    },
+    "21/67_0": {
+      "original_lines": [
+        "まだ何も言っていないのに... "
+      ],
+      "translated_lines": [
+        "我还什么都没说…"
+      ]
+    }
+  }
+}
