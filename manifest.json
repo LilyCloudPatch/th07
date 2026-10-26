@@ -1,8 +1,8 @@
 {
   "schema_version": 4,
-  "channel": "release",
+  "channel": "dev",
   "game_id": "th07",
-  "issued_at": "2026-10-26T14:11:51Z",
+  "issued_at": "2026-10-26T14:11:54Z",
   "content_version": "0.11.0",
   "minimum_launcher_version": "0.1.11",
   "database_schema_version": 2,
